@@ -1,6 +1,6 @@
-# Anonymous KDD '21 research paper submission
+# kdd21-Learning-to-Recommend-Visualizations
 
-Repository for data release for KDD2021 submission "Learning to Recommend Visualizations from Data".
+Data and supplementary materials for the KDD'21 paper "Learning to Recommend Visualizations from Data".
 
 ### Table of Contents
 
@@ -8,13 +8,6 @@ Repository for data release for KDD2021 submission "Learning to Recommend Visual
    * [Note](#note)
    * [Data](#Data)
 <!--te-->
-
-### Note
-
-In this data release for anonymous review, we use this dedicated github account.
-While github has a file limit of 100MB, it turns out to be a reasonable solution. 
-
-Alternative solutions such as [anonymous.4open.science](anonymous.4open.science) cannot display contents for certain types of files. 
 
 ### Data
 
@@ -44,10 +37,12 @@ Note that Sec. 5.1 reports to have 925 datasets. This amount comes after pre-pro
 
 <img src="example-snapshots/example-visualizations.png" width="500">
  
+ 
+#### Intellectual Property Note
+Thank you, for readers interested about source implementation. We unfortunately cannot share here due to company policy.
 
-
-### Contacts
-Thanks for your review attention!
+#### Contacts
+Please email questions to Xin Qian (xinq@umd.edu). 
 
 
 
