@@ -1,0 +1,7 @@
+type,ysrc,xsrc,name
+scatter,akane13:11:42e687,akane13:11:507654,Jacobi java
+scatter,akane13:11:a564da,akane13:11:507654,Gauss java
+scatter,akane13:11:d99bdb,akane13:11:507654,Siedel java
+scatter,akane13:11:4887b1,akane13:11:507654,Monte carlo java
+scatter,akane13:11:6eeb08,akane13:11:507654,Partial eigen
+scatter,akane13:11:b60524,akane13:11:507654,Sparse eigen

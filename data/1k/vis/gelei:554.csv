@@ -1,0 +1,6 @@
+type,yaxis,ysrc,xsrc,name
+scatter,,gelei:555:eed672,gelei:555:8ce4c4,Exchange Deposit Amount(Token)
+scatter,,gelei:555:ba60b5,gelei:555:8ce4c4,Exchange Withdraw Amount(Token)
+scatter,,gelei:555:479d8e,gelei:555:8ce4c4,Exchange Remain Amount(Token)
+scatter,y2,gelei:555:f8e8e8,gelei:555:27940c,Price(USD)
+scatter,,gelei:555:720552,gelei:555:27940c,Trading Volume(Token)

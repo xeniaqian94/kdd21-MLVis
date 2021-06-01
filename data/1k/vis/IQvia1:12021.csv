@@ -1,0 +1,3 @@
+type,hoverinfo,marker.sizesrc,ysrc,textsrc,marker.sizemode,mode,xsrc,name
+scatter,x,,IQvia1:12022:8c8bcd,,,markers,IQvia1:12022:d3f959,Predicted Probability
+scatter,x+text,IQvia1:12022:81e8fd,IQvia1:12022:097a1f,IQvia1:12022:114c2a,area,markers,IQvia1:12022:d3f959,Observed Probability

@@ -1,0 +1,13 @@
+type,ysrc,jitter,boxpoints,name,boxmean,pointpos
+box,dudenz:203:2b38dd,0.3,all,3day<br>6time<br>ForecastIO<br>Temperature<br>Mean:0.06<br>STD:2.21,sd,-1.8
+box,dudenz:203:5187fe,0.3,all,3day<br>6time<br>ForecastIO<br>Rain<br>Mean:0.03<br>STD:0.25,sd,-1.8
+box,dudenz:203:ab304c,0.3,all,3day<br>6time<br>ForecastIO<br>Wind<br>Mean:-0.08<br>STD:1.52,sd,-1.8
+box,dudenz:203:afd893,0.3,all,3day<br>11time<br>ForecastIO<br>Temperature<br>Mean:1.45<br>STD:1.97,sd,-1.8
+box,dudenz:203:9c9dfd,0.3,all,3day<br>11time<br>ForecastIO<br>Rain<br>Mean:-0.01<br>STD:0.26,sd,-1.8
+box,dudenz:203:1e3c61,0.3,all,3day<br>11time<br>ForecastIO<br>Wind<br>Mean:-0.13<br>STD:1.80,sd,-1.8
+box,dudenz:203:e0f18d,0.3,all,3day<br>17time<br>ForecastIO<br>Temperature<br>Mean:-1.21<br>STD:2.38,sd,-1.8
+box,dudenz:203:ff214f,0.3,all,3day<br>17time<br>ForecastIO<br>Rain<br>Mean:0.00<br>STD:0.08,sd,-1.8
+box,dudenz:203:a81976,0.3,all,3day<br>17time<br>ForecastIO<br>Wind<br>Mean:-0.51<br>STD:1.64,sd,-1.8
+box,dudenz:203:978df8,0.3,all,3day<br>23time<br>ForecastIO<br>Temperature<br>Mean:-1.00<br>STD:0.00,sd,-1.8
+box,dudenz:203:03e314,0.3,all,3day<br>23time<br>ForecastIO<br>Rain<br>Mean:0.00<br>STD:0.00,sd,-1.8
+box,dudenz:203:f8b0e4,0.3,all,3day<br>23time<br>ForecastIO<br>Wind<br>Mean:1.00<br>STD:0.00,sd,-1.8

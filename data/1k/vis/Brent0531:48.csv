@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,line.width,mode,xsrc,name,line.color
+scatter,,,Brent0531:49:3db42f,2,lines,Brent0531:49:7d9c8e,平均湿度,"rgb(100,208,250)"
+bar,y2,"rgb(255,115,66)",Brent0531:49:101e94,,,Brent0531:49:7d9c8e,就诊人数,

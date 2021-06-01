@@ -1,0 +1,5 @@
+type,yaxis,ysrc,mode,xsrc,name
+scatter,,markiemark:7:bf41f0,markers+lines,markiemark:7:d43e44,Volts
+scatter,y2,markiemark:7:75864c,markers+lines,markiemark:7:d43e44,Current
+scatter,,markiemark:7:bf41f0,markers+lines,markiemark:7:d43e44,Temperature
+scatter,,markiemark:7:bf41f0,markers+lines,markiemark:7:d43e44,Power

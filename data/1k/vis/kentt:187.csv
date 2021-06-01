@@ -1,0 +1,6 @@
+type,uid,ysrc,line.width,text,xsrc,line.dash,mode,line.color,name
+scatter,f33085,kentt:220:180ebe,1.8,,kentt:220:4d6544,solid,lines,"rgb(4, 44, 109)",Nedstrøms Svorkmo
+scatter,f33085,kentt:220:aac24f,1.3,,kentt:220:4d6544,solid,lines,"rgb(255, 127, 14)",Elvadalen
+scatter,f33085,kentt:220:4a80a0,1.3,,kentt:220:4d6544,solid,lines,"rgb(214, 39, 40)",Syrstad
+scatter,f33085,kentt:220:3fea7e,1.3,,kentt:220:4d6544,solid,lines,"rgb(0, 245, 0)",Nedstrøms Brattset
+scatter,f33085,kentt:220:7546da,1.3,,kentt:220:4d6544,solid,lines,"rgb(227, 119, 194)",Oppstrøms Brattset

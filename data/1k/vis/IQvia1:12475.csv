@@ -1,0 +1,14 @@
+type,yaxis,xaxis,ysrc,showlegend,line.width,xsrc,line.dash,line.color,name
+scatter,y1,x1,IQvia1:12476:e24ea9,True,3,IQvia1:12476:20318d,,"rgb(140, 0, 140)",Max Distance Metric
+scatter,y2,x2,IQvia1:12476:a1b0e2,False,3,IQvia1:12476:20318d,,,GENDER
+scatter,y2,x2,IQvia1:12476:93b5e3,False,3,IQvia1:12476:20318d,,,AGEGROUP
+scatter,y2,x2,IQvia1:12476:32fb6b,False,3,IQvia1:12476:20318d,,,HEPATITIS BC
+scatter,y2,x2,IQvia1:12476:32fb6b,False,3,IQvia1:12476:20318d,,,TUBERCULOSIS
+scatter,y2,x2,IQvia1:12476:32fb6b,False,3,IQvia1:12476:20318d,,,HIV
+scatter,y2,x2,IQvia1:12476:32fb6b,False,3,IQvia1:12476:20318d,,,TACROLIMUS
+scatter,y2,x2,IQvia1:12476:32fb6b,False,3,IQvia1:12476:20318d,,,AZATHIOPRINE
+scatter,y3,x3,IQvia1:12476:95a299,True,3,IQvia1:12476:20318d,,"rgb(22, 96, 167)",L1 Balance Metric
+scatter,y1,x1,IQvia1:12476:a64fd4,True,2,IQvia1:12476:20318d,dot,"rgb(22, 96, 167)",Pruning Level
+scatter,y1,x1,IQvia1:12476:f6b119,False,2,IQvia1:12476:353082,dot,"rgb(22, 96, 167)",
+scatter,y2,x2,IQvia1:12476:8bb4b1,False,2,IQvia1:12476:353082,dot,"rgb(22, 96, 167)",
+scatter,y3,x3,IQvia1:12476:b14fd9,False,2,IQvia1:12476:353082,dot,"rgb(22, 96, 167)",

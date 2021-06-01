@@ -1,0 +1,7 @@
+type,ysrc,line.width,xsrc,name,yaxis,line.dash,xaxis,showlegend,line.color
+scatter,dosauto:602:7de096,3,dosauto:602:0fdcc9,pH,y1,,x1,,
+scatter,dosauto:602:1b316f,1,dosauto:602:0fdcc9,Upper Limit,y1,dash,x1,False,"rgb(128, 0, 128)"
+scatter,dosauto:602:6cef81,1,dosauto:602:0fdcc9,Lower Limit,y1,dash,x1,False,"rgb(128, 0, 128)"
+scatter,dosauto:602:b57dbc,3,dosauto:602:0fdcc9,FC,y2,,x2,,
+scatter,dosauto:602:3cd179,1,dosauto:602:0fdcc9,Upper Limit,y2,dash,x2,False,"rgb(128, 0, 128)"
+scatter,dosauto:602:e8e332,1,dosauto:602:0fdcc9,Lower Limit,y2,dash,x2,False,"rgb(128, 0, 128)"

@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,line.width,mode,xsrc,name,line.color
+scatter,,,BrentCCNU:21:4b363f,2,lines,BrentCCNU:21:7961a7,平均湿度,"rgb(100,208,250)"
+bar,y2,"rgb(255,115,66)",BrentCCNU:21:b88fdc,,,BrentCCNU:21:7961a7,就诊人数,

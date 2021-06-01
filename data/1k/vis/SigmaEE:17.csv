@@ -1,0 +1,9 @@
+type,line.shape,yaxis,marker.color,ysrc,showlegend,mode,xsrc,name,line.color
+bar,,,orange,SigmaEE:190:169e74,,,SigmaEE:190:3c91aa,Solar,
+bar,,,#5882FA,SigmaEE:190:00e466,,,SigmaEE:190:3c91aa,Wind,
+bar,,,#70A37C,SigmaEE:190:b347bc,,,SigmaEE:190:3c91aa,Gen DC,
+bar,,,#4F7257,SigmaEE:190:2905d8,,,SigmaEE:190:3c91aa,Gen AC,
+scatter,spline,y2,,SigmaEE:190:169e74,False,lines,SigmaEE:190:3c91aa,Solar,orange
+scatter,spline,y2,,SigmaEE:190:00e466,False,lines,SigmaEE:190:3c91aa,Wind,#5882FA
+scatter,spline,y2,,SigmaEE:190:b347bc,False,lines,SigmaEE:190:3c91aa,Gen DC,#70A37C
+scatter,spline,y2,,SigmaEE:190:2905d8,False,lines,SigmaEE:190:3c91aa,Gen AC,#4F7257

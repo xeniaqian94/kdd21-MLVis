@@ -1,0 +1,3 @@
+type,hoverinfo,line.shape,uid,ysrc,connectgaps,line.width,mode,xsrc,name
+scatter,x+y,vhv,9ddd4b,flamaster:10:741fbd,,,lines,flamaster:10:3a4c73,Balance
+scatter,,spline,c28adc,flamaster:10:5a7c28,True,3.5,lines,flamaster:10:3a4c73,Moving Average

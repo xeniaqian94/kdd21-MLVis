@@ -1,0 +1,4 @@
+type,marker.size,marker.color,marker.line.width,ysrc,textsrc,marker.line.color,mode,xsrc,name
+scatter,12,"rgba(246, 78, 139, 0.6)",1,hansele:40401:27a72d,hansele:40401:e9e0f5,"rgba(246, 78, 139, 1.0)",markers,hansele:40401:562a82,Sensitive Receptor
+scatter,12,"rgba(48,129,238, .6)",1,hansele:40401:d57dc8,hansele:40401:18553d,"rgba(48,129,238, 1.0)",markers,hansele:40401:be70c2,Construction
+scatter,12,"rgba(58, 71, 80, .8)",1,hansele:40401:41b7a4,hansele:40401:4cb541,"rgba(58, 71, 80, 1.0)",markers,hansele:40401:9dcea3,Ambient

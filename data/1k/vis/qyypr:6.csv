@@ -1,0 +1,5 @@
+type,uid,marker.line.width,ysrc,mode,name,marker.size,marker.color,autobinx,autobiny,fill
+box,ec4aa7,1,qyypr:5:79bc0f,markers,＜1500平米,6,#19d3f3,True,True,
+box,eececc,1,qyypr:5:4cb95d,markers,[1500，2000)平米,6,#e763fa,True,True,
+box,d1d564,1,qyypr:5:02bb6f,markers,[2000，4000)平米,6,#ab63fa,True,True,
+box,4adbfd,1,qyypr:5:c1e89d,markers,≥4000平米,6,#636efa,True,True,

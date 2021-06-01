@@ -1,0 +1,13 @@
+marker.size,hoverinfo,marker.color,ysrc,showlegend,xsrc,name
+,,white,thedgcgroup:2483:0f47c1,,thedgcgroup:2483:2ec68a,
+,,white,thedgcgroup:2483:940605,,thedgcgroup:2483:4070f6,
+,,white,thedgcgroup:2483:3cd3e9,,thedgcgroup:2483:401a69,
+,,white,thedgcgroup:2483:5d5896,,thedgcgroup:2483:4e8163,
+,,white,thedgcgroup:2483:5b6e20,,thedgcgroup:2483:d75d0c,
+,,white,thedgcgroup:2483:2d94d9,,thedgcgroup:2483:76e8d6,
+1,none,"rgb(212, 128, 128)",thedgcgroup:2483:2d94d9,True,thedgcgroup:2483:699550,ACMO External Round 2 Results
+1,none,"rgb(170, 128, 128)",thedgcgroup:2483:5b6e20,True,thedgcgroup:2483:699550,ACMO Internal Finals
+1,none,"rgb(128, 128, 128)",thedgcgroup:2483:5d5896,True,thedgcgroup:2483:699550,ACMO Internal Game 2 Results
+1,none,"rgb(85, 128, 128)",thedgcgroup:2483:3cd3e9,True,thedgcgroup:2483:699550,ACMO Internal Game 3 Results
+1,none,"rgb(42, 128, 128)",thedgcgroup:2483:940605,True,thedgcgroup:2483:699550,ACMO Internal Game 4 Results
+1,none,"rgb(0, 128, 128)",thedgcgroup:2483:0f47c1,True,thedgcgroup:2483:699550,ACMO Internal Game 5 Results

@@ -1,0 +1,11 @@
+mode,type,marker.size,zsrc,marker.color,uid,ysrc,visible,marker.symbol,xsrc,name
+markers,scatter3d,,fuscata10:3:8eefdf,,2060f7,fuscata10:3:834a9e,,circle-open,fuscata10:3:93807f,F
+markers,scatter3d,,fuscata10:3:8aa257,,2f63c0,fuscata10:3:008ede,,circle-open,fuscata10:3:4412df,I
+markers,scatter3d,,fuscata10:3:386e2e,,e44fa7,fuscata10:3:e8085b,,circle-open,fuscata10:3:9cebfb,L
+markers,scatter3d,,fuscata10:3:8f565a,,9273b6,fuscata10:3:546aad,,circle-open,fuscata10:3:421233,O
+markers,scatter3d,,fuscata10:3:4bd069,,061470,fuscata10:3:4d503a,,circle-open,fuscata10:3:bf3407,R
+markers,scatter3d,,fuscata10:3:b77add,,a77a44,fuscata10:3:30b020,,circle-open,fuscata10:3:1bb03e,U
+markers,scatter3d,,fuscata10:3:566e05,,4cb431,fuscata10:3:070a4c,,circle-open,fuscata10:3:e1d292,X
+markers,scatter3d,,fuscata10:3:7b9ade,,1a494a,fuscata10:3:f85ce8,,circle-open,fuscata10:3:a73912,AA
+markers,scatter3d,,fuscata10:3:dbb0ad,,c04e44,fuscata10:3:97c45f,,circle-open,fuscata10:3:318d36,AD
+markers,scatter3d,3,fuscata10:3:4c777f,"rgb(16, 16, 16)",8748f8,fuscata10:3:81df3c,True,circle-open,fuscata10:3:daa332,C

@@ -1,0 +1,4 @@
+type,marker.line.width,ysrc,marker.line.color,xsrc,name,opacity,textposition,marker.color,textsrc,widthsrc
+bar,1.5,verarim:1:ba7f8d,"rgb(8,48,107)",verarim:1:83da9f,Tamaraw,0.8,auto,"rgb(58,200,225)",verarim:1:4d7d9f,verarim:1:6cea57
+bar,1.5,verarim:1:f4597d,"rgb(8,48,107)",verarim:1:83da9f,WTF-PAD,0.8,auto,"rgb(158,202,225)",verarim:1:437870,verarim:1:6cea57
+bar,1.5,verarim:1:283fdd,"rgb(8,48,107)",verarim:1:83da9f,Unprotected,0.8,auto,"rgb(196, 157, 235)",verarim:1:444d29,verarim:1:6cea57

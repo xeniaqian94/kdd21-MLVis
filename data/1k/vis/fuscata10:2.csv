@@ -1,0 +1,5 @@
+type,uid,ysrc,marker.line.width,cmax,marker.line.color,cmin,cauto,mode,xsrc,name,marker.size,hoverinfo,zsrc,autobinx,marker.color,autobiny,marker.fillcolor,marker.symbol,showlegend
+scatter3d,b33e35,fuscata10:1:d4992a,,3,transparent,1,True,markers,fuscata10:1:5b45e7,"Gerbosari,z",7,x+y+z,fuscata10:1:109a2f,True,"rgb(255, 127, 14)",True,"rgba(191,56,42,0.5)",circle-open,True
+scatter3d,5672ba,fuscata10:1:8803fa,,,,,,markers,fuscata10:1:789855,"Ngargosari,z",7,,fuscata10:1:e1707d,,"rgb(44, 160, 44)",,,square-open,True
+scatter3d,51cb51,fuscata10:1:2c133f,-0.5,,,,,markers,fuscata10:1:2cdbba,"Pagerharjo,z",5,,fuscata10:1:9cf7fa,,"rgb(148, 103, 189)",,,x,True
+scatter3d,5b37da,fuscata10:1:547347,,,,,,markers,fuscata10:1:e7ce34,"Sidoharjo,z",6,,fuscata10:1:113f9e,,,,,diamond-open,True

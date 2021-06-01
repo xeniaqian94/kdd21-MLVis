@@ -1,0 +1,12 @@
+type,ysrc,visible,xsrc,name
+scatter,infintel00p:5:5e1477,visible,infintel00p:5:df0c56,DASH
+scatter,infintel00p:5:60a3c8,visible,infintel00p:5:df0c56,ETC
+scatter,infintel00p:5:6d74cd,visible,infintel00p:5:df0c56,ETH
+scatter,infintel00p:5:261bae,visible,infintel00p:5:df0c56,FCT
+scatter,infintel00p:5:d9cb0f,visible,infintel00p:5:df0c56,GAS
+scatter,infintel00p:5:589d3b,visible,infintel00p:5:df0c56,OMG
+scatter,infintel00p:5:fca465,visible,infintel00p:5:df0c56,STEEM
+scatter,infintel00p:5:4d5062,visible,infintel00p:5:df0c56,STORJ
+scatter,infintel00p:5:912558,visible,infintel00p:5:df0c56,XMR
+scatter,infintel00p:5:c3b33b,visible,infintel00p:5:df0c56,XRP
+scatter,infintel00p:5:2c21bb,visible,infintel00p:5:df0c56,BTC

@@ -1,0 +1,7 @@
+line.fillcolor,type,yaxis,xaxis,ysrc,xsrc,mode,line.color,name
+"rgba(31,119,180,1)",scatter,y,x,taylorsco:15:c05537,taylorsco:15:b09e99,lines,"rgba(31,119,180,1)",Total
+"rgba(255,127,14,1)",scatter,y,x,taylorsco:15:507f2b,taylorsco:15:b09e99,lines,"rgba(255,127,14,1)",Category
+"rgba(44,160,44,1)",scatter,y,x,taylorsco:15:23ae5b,taylorsco:15:b09e99,lines,"rgba(44,160,44,1)",Event
+"rgba(214,39,40,1)",scatter,y,x,taylorsco:15:681760,taylorsco:15:b09e99,lines,"rgba(214,39,40,1)",Marketing
+"rgba(148,103,189,1)",scatter,y,x,taylorsco:15:bb744d,taylorsco:15:b09e99,lines,"rgba(148,103,189,1)",Suggested
+"rgba(140,86,75,1)",scatter,y,x,taylorsco:15:0fc3a8,taylorsco:15:b09e99,lines,"rgba(140,86,75,1)",Other

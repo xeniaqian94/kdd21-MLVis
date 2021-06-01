@@ -1,0 +1,5 @@
+type,yaxis,ysrc,xsrc,name
+scatter,y,antoin:70:545b81,antoin:70:16d7fc,SMP (Euros)
+scatter,y3,antoin:70:56e1e2,antoin:70:4f3a7a,SystemLoad
+scatter,y4,antoin:70:e1c0f4,antoin:70:31df9e,WindPower
+scatter,y2,antoin:70:b568f8,antoin:70:31df9e,Interconnector

@@ -1,0 +1,4 @@
+ysrc,mode,xsrc,name
+bpatoutset:193:8511c2,line,bpatoutset:193:9a703c,ROPC_ROPCM_ratio
+bpatoutset:193:bd8025,line,bpatoutset:193:9a703c,ROFC_ROFCM_ratio
+bpatoutset:193:46f5de,line,bpatoutset:193:9a703c,DIALC_MC_ratio

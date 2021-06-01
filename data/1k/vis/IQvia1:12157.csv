@@ -1,0 +1,5 @@
+type,ysrc,line.width,line.dash,xsrc,name,line.color
+scatter,IQvia1:12158:b664de,3,,IQvia1:12158:aa32fa,Model - ADHD-Real-5-nonCV - Train,"rgb(22, 96, 167)"
+scatter,IQvia1:12158:c7e881,2,dot,IQvia1:12158:c2185b,Model - ADHD-Real-5-nonCV - Test,"rgb(22, 96, 167)"
+scatter,IQvia1:12158:c7e881,2,dot,IQvia1:12158:c2185b,Best Possible,"rgb(22, 167, 22)"
+scatter,IQvia1:12158:0c77e3,2,dash,IQvia1:12158:1e8d6a,Null Hypothesis,"rgb(167, 22, 22)"

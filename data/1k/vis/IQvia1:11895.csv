@@ -1,0 +1,4 @@
+type,ysrc,line.width,line.dash,xsrc,name,line.color
+scatter,IQvia1:11896:4d35a3,3,,IQvia1:11896:6a4558,First Series,"rgb(22, 96, 167)"
+scatter,IQvia1:11896:7da14b,3,dash,IQvia1:11896:6a4558,Second Series,"rgb(167, 22, 22)"
+bar,IQvia1:11896:9993aa,,,IQvia1:11896:6a4558,Third Series,

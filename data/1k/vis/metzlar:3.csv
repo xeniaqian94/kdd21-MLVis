@@ -1,0 +1,3 @@
+type,ysrc,mode,xsrc,name
+scatter,metzlar:4:c62e52,markers,metzlar:4:e2c749,data
+scatter,metzlar:4:7d8410,lines,metzlar:4:e4465e,fit

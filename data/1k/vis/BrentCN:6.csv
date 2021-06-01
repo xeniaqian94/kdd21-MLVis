@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,line.width,mode,xsrc,name,line.color
+scatter,,,BrentCN:7:b229fa,2,lines,BrentCN:7:5bff08,NO2,"rgb(100,208,250)"
+bar,y2,"rgb(255,115,66)",BrentCN:7:83dd47,,,BrentCN:7:5bff08,人数,

@@ -1,0 +1,3 @@
+type,marker.color,autobinx,uid,ysrc,textsrc,autobiny,xsrc,name
+bar,#cc2962,True,8f501a,arathichirakkalhouse:10:fa1518,,True,arathichirakkalhouse:10:b37240,Expected Attendance
+bar,#75cc29,True,84a69d,arathichirakkalhouse:10:456b4e,arathichirakkalhouse:10:65d5a4,True,arathichirakkalhouse:10:b37240,Actual Attendance

@@ -1,0 +1,3 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,mipi:559:f87d1c,1.0,mipi:559:45e869,solid,lines,"rgba (255, 0, 0, 1)",Br9901
+scatter,y1,x1,mipi:559:aed891,1.0,mipi:559:45e869,solid,lines,"rgba (0, 127, 0, 1)",troligen Br0701

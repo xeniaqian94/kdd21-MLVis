@@ -1,0 +1,3 @@
+type,marker.line.width,ysrc,line.width,visible,mode,xsrc,name,marker.size,yaxis,marker.color,line.dash,xaxis,showlegend,line.color
+scatter,0.5,EngAnalysis:49:ed1382,0.5,True,lines,EngAnalysis:49:2f51a7,Sensor Output,6,y1,"rgb(0,113.985,188.955)",solid,x1,True,"rgb(0,113.985,188.955)"
+scatter,1,EngAnalysis:49:18125b,1,True,lines,EngAnalysis:49:2f51a7,Rounded to 0.5mm increment,6,y1,"rgb(255,0,0)",solid,x1,True,"rgb(255,0,0)"

@@ -1,0 +1,5 @@
+"Gender, x","Gender, y","AgeAtIndexDate, x","AgeAtIndexDate, y","YearOfIndexDate, x","YearOfIndexDate, y","Duration of Therapy, x","Duration of Therapy, y","asthma_ndc, x; ALL PSYCHIATRIC EVENTS, x; SEXUAL MATURITY DISORDERS, x; Dexamphetamine, x","asthma_ndc, y","ALL PSYCHIATRIC EVENTS, y","SEXUAL MATURITY DISORDERS, y","Dexamphetamine, y"
+11e07b,429294,035d05,83df44,19c538,e1c0eb,5d0a8a,887408,2231b0,ea0ee7,516d8d,d1902b,22fe61
+[F],29413,[6],6529,[2006],2752,"[(-2.2, 33.5]]",18000,[0],99604,89694,99348,97613
+[M],70212,[7],9861,[2007],6203,"[(33.5, 66]]",5691,[1],29,9939,285,2020
+[U],8,[8],10904,[2008],11934,"[(66, 98.4]]",4373,,,,,

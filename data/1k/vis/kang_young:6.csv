@@ -1,0 +1,2 @@
+type,marker.sizesrc,marker.line.width,ysrc,marker.line.color,visible,marker.sizemode,mode,xsrc,name,yaxis,marker.symbolsrc,marker.sizeref,marker.colorsrc,xaxis,showlegend
+scatter,kang_young:7:df2bff,0.5,kang_young:7:88971a,"rgb(0,0,0)",True,area,markers,kang_young:7:1c494f,,y1,kang_young:7:eb36d9,1,kang_young:7:39e14b,x1,True

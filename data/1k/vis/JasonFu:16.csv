@@ -1,0 +1,10 @@
+type,latsrc,lonsrc,marker.sizesrc,marker.line.width,marker.line.color,marker.sizemode,name,marker.color,textsrc,locationmode
+scattergeo,JasonFu:17:3f395a,JasonFu:17:e0b65d,JasonFu:17:f877d8,0.5,"rgb(40,40,40)",area,0-5000,"rgb(255,255,204)",JasonFu:17:64025f,USA-states
+scattergeo,JasonFu:17:bcca9a,JasonFu:17:433075,JasonFu:17:330da6,0.5,"rgb(40,40,40)",area,5001-10000,"rgb(255,237,160)",JasonFu:17:844107,USA-states
+scattergeo,JasonFu:17:972992,JasonFu:17:e667f1,JasonFu:17:534182,0.5,"rgb(40,40,40)",area,10001-25000,"rgb(254,217,118)",JasonFu:17:f665da,USA-states
+scattergeo,JasonFu:17:bb7158,JasonFu:17:0ce4e7,JasonFu:17:974e12,0.5,"rgb(40,40,40)",area,25001-50000,"rgb(254,178,76)",JasonFu:17:ae1538,USA-states
+scattergeo,JasonFu:17:fad955,JasonFu:17:c47d7d,JasonFu:17:0909a2,0.5,"rgb(40,40,40)",area,50001-100000,"rgb(253,141,60)",JasonFu:17:1464cf,USA-states
+scattergeo,JasonFu:17:d9c771,JasonFu:17:cb15cf,JasonFu:17:be4c1c,0.5,"rgb(40,40,40)",area,100001-250000,"rgb(252,78,42)",JasonFu:17:dcfbe5,USA-states
+scattergeo,JasonFu:17:32142a,JasonFu:17:76ae89,JasonFu:17:b90b63,0.5,"rgb(40,40,40)",area,250001-500000,"rgb(227,26,28)",JasonFu:17:a51bdb,USA-states
+scattergeo,JasonFu:17:010b10,JasonFu:17:b44ec7,JasonFu:17:504547,0.5,"rgb(40,40,40)",area,500001-1000000,"rgb(189,0,38)",JasonFu:17:44fa8c,USA-states
+scattergeo,JasonFu:17:1f23b1,JasonFu:17:ac60b0,JasonFu:17:7d3d5b,0.5,"rgb(40,40,40)",area,1000001+,"rgb(128,0,38)",JasonFu:17:727fc2,USA-states

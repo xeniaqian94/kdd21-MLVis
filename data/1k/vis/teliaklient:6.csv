@@ -1,0 +1,4 @@
+type,ysrc,mode,xsrc,name
+scatter,teliaklient:42:ed8385,lines,teliaklient:42:474f26,up
+scatter,teliaklient:42:dbec5c,lines,teliaklient:42:474f26,down
+scatter,teliaklient:42:e35ee4,lines,teliaklient:42:474f26,ping

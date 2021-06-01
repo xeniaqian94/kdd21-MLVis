@@ -1,0 +1,4 @@
+type,marker.color,marker.line.width,ysrc,marker.line.color,text,orientation,xsrc,name
+bar,"rgba(255, 153, 51, 0.6)",1,aliirz:181:e53135,"rgba(255, 153, 51, 1.0)",,v,aliirz:181:7e84fb,Camp In
+bar,"rgba(55, 128, 191, 0.6)",1,aliirz:181:ee9ffb,"rgba(55, 128, 191, 1.0)",,v,aliirz:181:7e84fb,Day Tour
+bar,"rgba(50, 171, 96, 0.6)",1,aliirz:181:2596be,"rgba(50, 171, 96, 1.0)",,v,aliirz:181:7e84fb,Total

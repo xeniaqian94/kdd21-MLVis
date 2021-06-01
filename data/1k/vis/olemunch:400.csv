@@ -1,0 +1,3 @@
+type,mode,marker.size,marker.color,ysrc,marker.symbol,xsrc,name
+scatter,lines+markers,3,blue,olemunch:401:7ba44b,104,olemunch:401:d1bfa6,Kilde Trindbak flow (m3/s)
+scatter,lines+markers,3,red,olemunch:401:bdefed,104,olemunch:401:13a324,Kilde Trindbak vandstand /50 (m)

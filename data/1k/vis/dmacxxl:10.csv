@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,stream.head,stream.fid,stream.token,stream.maxpoints,xsrc,name
+scatter,,,dmacxxl:86:cbf903,0,10,763ylhj1mj,10000,dmacxxl:86:c90df3,pH
+scatter,y2,"rgb(148, 10, 10)",dmacxxl:86:76285e,0,10,m3hr1fojxt,10000,dmacxxl:86:c90df3,Temp

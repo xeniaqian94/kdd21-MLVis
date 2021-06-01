@@ -1,0 +1,9 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,mipi:578:432df1,1.0,mipi:578:693080,solid,lines,"rgba (255, 0, 0, 1)",Ka R94-diver
+scatter,y1,x1,mipi:578:905a9d,1.0,mipi:578:803017,solid,lines,"rgba (0, 127, 0, 1)",Ka Br0701-GSM (3 obs medel)
+scatter,y1,x1,mipi:578:6204c6,1.0,mipi:578:c26e6d,solid,lines,"rgba (0, 0, 255, 1)",F Br9102-GSM
+scatter,y1,x1,mipi:578:ba61b7,1.0,mipi:578:11b449,solid,lines,"rgba (0, 191, 191, 1)",F Br9102-GSM dygnsmedel
+scatter,y1,x1,mipi:578:c3f5e6,1.0,mipi:578:bf7678,solid,lines,"rgba (191, 0, 191, 1)",L Br0201-Diver
+scatter,y1,x1,mipi:578:85dbe5,1.0,mipi:578:a6c04f,solid,lines,"rgba (191, 191, 0, 1)",Å Rb0801-GSM
+scatter,y1,x1,mipi:578:b9d842,1.0,mipi:578:11b449,solid,lines,"rgba (0, 0, 0, 1)",Å Rb0801-GSM dygnsmedel
+scatter,y1,x1,mipi:578:432df1,1.0,mipi:578:693080,solid,lines,"rgba (255, 0, 0, 1)",Å Rb0806-Diver

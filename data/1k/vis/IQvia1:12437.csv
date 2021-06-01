@@ -1,0 +1,7 @@
+type,ysrc,line.width,xsrc,name,hoverinfo,yaxis,textsrc,line.dash,xaxis,showlegend,line.color
+scatter,IQvia1:12438:848091,4,IQvia1:12438:20101f,Train,text,y1,IQvia1:12438:63ee75,,x1,True,"rgb(20, 140, 20)"
+scatter,IQvia1:12438:c15273,2,IQvia1:12438:20101f,Test,text,y1,IQvia1:12438:c1be3e,dot,x1,True,"rgb(10, 70, 10)"
+scatter,IQvia1:12438:8f6adb,4,IQvia1:12438:20101f,Train,text,y2,IQvia1:12438:b14530,,x2,True,"rgb(140, 0, 140)"
+scatter,IQvia1:12438:01cae3,2,IQvia1:12438:20101f,Test,text,y2,IQvia1:12438:6c550b,dot,x2,True,"rgb(70, 0, 70)"
+scatter,IQvia1:12438:eaa432,4,IQvia1:12438:20101f,Max. Prob.,text,y3,IQvia1:12438:c1fb3a,,x3,True,"rgb(205, 12, 24)"
+scatter,IQvia1:12438:b5155f,4,IQvia1:12438:20101f,Min. Prob.,text,y3,IQvia1:12438:5ebb4b,,x3,True,"rgb(22, 96, 167)"

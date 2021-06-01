@@ -1,0 +1,3 @@
+type,uid,ysrc,line.width,mode,xsrc,name,hoverinfo,autobinx,marker.color,textsrc,autobiny,marker.symbol,showlegend
+scatter,e81229,baphomet666:124:30d274,3,lines+markers,baphomet666:124:1be98b,"INV, y, y, y (1), y",,True,,baphomet666:124:2a87ed,True,circle,
+bar,11ac87,baphomet666:124:e34a1f,,,baphomet666:124:1be98b,"DIFF, y, y, y (1), y",x+y+text+name,True,"rgb(23, 190, 207)",baphomet666:124:2a87ed,True,,True

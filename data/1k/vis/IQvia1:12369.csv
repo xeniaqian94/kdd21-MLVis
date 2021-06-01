@@ -1,0 +1,5 @@
+type,ysrc,line.width,line.dash,xsrc,name,line.color
+scatter,IQvia1:12370:bb9683,3,,IQvia1:12370:799b29,Model - PSM-Match-adhd-7-deg6-nonCV - Train,"rgb(22, 96, 167)"
+scatter,IQvia1:12370:8bf047,2,dot,IQvia1:12370:a8ad18,Model - PSM-Match-adhd-7-deg6-nonCV - Test,"rgb(22, 96, 167)"
+scatter,IQvia1:12370:8bf047,2,dot,IQvia1:12370:a8ad18,Best Possible,"rgb(22, 167, 22)"
+scatter,IQvia1:12370:2d43fb,2,dash,IQvia1:12370:40dcd5,Null Hypothesis,"rgb(167, 22, 22)"

@@ -1,0 +1,10 @@
+type,ysrc,jitter,boxpoints,name,boxmean,pointpos
+box,dudenz:131:1c1f19,0.3,all,0day<br>WetterCom<br>Temperature<br>Mean:0.36<br>STD:2.42,sd,-1.8
+box,dudenz:131:0d603f,0.3,all,0day<br>WetterCom<br>Rain<br>Mean:0.24<br>STD:3.53,sd,-1.8
+box,dudenz:131:1f29fc,0.3,all,0day<br>WetterCom<br>Wind<br>Mean:7.45<br>STD:5.02,sd,-1.8
+box,dudenz:131:4feef7,0.3,all,1day<br>WetterCom<br>Temperature<br>Mean:0.44<br>STD:2.48,sd,-1.8
+box,dudenz:131:1d8c50,0.3,all,1day<br>WetterCom<br>Rain<br>Mean:0.18<br>STD:2.43,sd,-1.8
+box,dudenz:131:4ddecc,0.3,all,1day<br>WetterCom<br>Wind<br>Mean:7.36<br>STD:4.92,sd,-1.8
+box,dudenz:131:5ebc20,0.3,all,2day<br>WetterCom<br>Temperature<br>Mean:0.51<br>STD:2.54,sd,-1.8
+box,dudenz:131:5fe3ce,0.3,all,2day<br>WetterCom<br>Rain<br>Mean:0.14<br>STD:1.70,sd,-1.8
+box,dudenz:131:753cf0,0.3,all,2day<br>WetterCom<br>Wind<br>Mean:7.58<br>STD:4.83,sd,-1.8

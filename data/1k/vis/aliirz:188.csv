@@ -1,0 +1,4 @@
+type,marker.color,marker.line.width,ysrc,marker.line.color,text,orientation,xsrc,name
+bar,"rgba(255, 153, 51, 0.6)",1,aliirz:189:5e2cf7,"rgba(255, 153, 51, 1.0)",,v,aliirz:189:8c9ae6,LSR
+bar,"rgba(55, 128, 191, 0.6)",1,aliirz:189:5e2cf7,"rgba(55, 128, 191, 1.0)",,v,aliirz:189:8c9ae6,TNC
+bar,"rgba(50, 171, 96, 0.6)",1,aliirz:189:6cba13,"rgba(50, 171, 96, 1.0)",,v,aliirz:189:8c9ae6,TRO

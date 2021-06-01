@@ -1,0 +1,7 @@
+type,yaxis,xaxis,ysrc,mode,xsrc,name
+scatter,y1,x1,antwagner13:16:c34939,lines,antwagner13:16:527513,53228632
+scatter,y2,x2,antwagner13:16:3f9a8f,lines,antwagner13:16:431db0,53228632
+scatter,y3,x3,antwagner13:16:1ced9b,lines,antwagner13:16:4c6708,53228632
+scatter,y1,x1,antwagner13:16:8c8970,lines,antwagner13:16:fe4274,53236473
+scatter,y2,x2,antwagner13:16:997d6d,lines,antwagner13:16:c80ad0,53236473
+scatter,y3,x3,antwagner13:16:60eefc,lines,antwagner13:16:4c6708,53236473

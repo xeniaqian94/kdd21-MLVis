@@ -1,0 +1,7 @@
+type,ysrc,closesrc,line.width,increasing.line.color,mode,xsrc,name,lowsrc,highsrc,yaxis,legendgroup,hoverinfo,marker.color,opensrc,decreasing.line.color,marker.colorsrc,showlegend
+candlestick,,ujjwalkr:17:5c1555,,#17BECF,,ujjwalkr:17:d87de3,ripple,ujjwalkr:17:2176ad,ujjwalkr:17:a0db00,y2,,,,ujjwalkr:17:1f1411,#7F7F7F,,
+scatter,ujjwalkr:17:afc68d,,1,,lines,ujjwalkr:17:d87de3,Moving Average 8,,,y2,,,#1111EE,,,,
+scatter,ujjwalkr:17:58f179,,1,,lines,ujjwalkr:17:d87de3,Moving Average 40,,,y2,,,#EE1111,,,,
+bar,ujjwalkr:17:d979d0,,,,,ujjwalkr:17:d87de3,Volume,,,y,,,,,,ujjwalkr:17:868712,
+scatter,ujjwalkr:17:9e2445,,1,,,ujjwalkr:17:d87de3,Bollinger Bands,,,y2,Bollinger Bands,none,#ccc,,,,
+scatter,ujjwalkr:17:e098fe,,1,,,ujjwalkr:17:d87de3,,,,y2,Bollinger Bands,none,#ccc,,,,False

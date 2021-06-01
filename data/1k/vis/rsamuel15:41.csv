@@ -1,0 +1,10 @@
+type,marker.size,ysrc,mode,xsrc,name
+scatter,12,rsamuel15:42:a797f3,markers,rsamuel15:42:8e18fb,sell
+scatter,12,rsamuel15:42:265162,markers,rsamuel15:42:d45860,buy
+scatter,,rsamuel15:42:0b16b6,,rsamuel15:42:bc0273,ma1h
+scatter,,rsamuel15:42:378799,,rsamuel15:42:8e18fb,profit
+scatter,12,rsamuel15:42:6a8027,markers,rsamuel15:42:97d747,allTimeHigh
+scatter,,rsamuel15:42:a08df8,,rsamuel15:42:bc0273,ma24h
+scatter,,rsamuel15:42:9f6aef,,rsamuel15:42:bc0273,close
+bar,,rsamuel15:42:e1b81c,,rsamuel15:42:8e18fb,change_bal
+scatter,,rsamuel15:42:9f6aef,,rsamuel15:42:bc0273,ticker

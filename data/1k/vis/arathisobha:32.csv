@@ -1,0 +1,15 @@
+type,uid,ysrc,visible,xsrc,name
+bar,b3b609,arathisobha:31:9521ab,True,arathisobha:31:18c9a7,DVR NOT IN  LAN
+bar,0d5f21,arathisobha:31:75dec6,True,arathisobha:31:18c9a7,HARD DISK ISSUES
+bar,e84bdf,arathisobha:31:c9f227,True,arathisobha:31:18c9a7,NETWORK ISSUES
+bar,e4c4f3,arathisobha:31:b10a2e,True,arathisobha:31:18c9a7,CAMERA
+bar,047465,arathisobha:31:ddd14b,True,arathisobha:31:18c9a7,DVR FAULT
+bar,825daf,arathisobha:31:d843c0,True,arathisobha:31:18c9a7,SENSOR FAULT
+bar,867996,arathisobha:31:b48937,True,arathisobha:31:18c9a7,ALARM PANNEL FAULT
+bar,a12736,arathisobha:31:d8a90e,True,arathisobha:31:18c9a7,BATTERY ISSUE
+bar,3a78d8,arathisobha:31:c9f227,True,arathisobha:31:18c9a7,NETWORK ISSUES
+bar,44c74e,arathisobha:31:700dc2,True,arathisobha:31:18c9a7,BIOMETRIC
+bar,9148c1,arathisobha:31:9804a2,True,arathisobha:31:18c9a7,INFLEET CAMERA
+bar,16e716,arathisobha:31:9804a2,True,arathisobha:31:18c9a7,HOOTER
+bar,f16da6,arathisobha:31:9804a2,True,arathisobha:31:18c9a7,GPS
+bar,914a60,arathisobha:31:9804a2,True,arathisobha:31:18c9a7,TAB

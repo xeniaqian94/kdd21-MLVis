@@ -1,0 +1,4 @@
+type,ysrc,line.width,line.dash,xsrc,name,line.color
+scatter,IQvia1:11890:72043c,5,,IQvia1:11890:7131c2,Model - ADHD-Real-5-nonCV - Train,"rgb(255, 127, 14)"
+scatter,IQvia1:11890:72043c,2,dot,IQvia1:11890:f023b8,Recall Threshold,"rgb(22, 96, 167)"
+scatter,IQvia1:11890:c65837,2,dot,IQvia1:11890:7131c2,Precision Threshold,"rgb(22, 96, 167)"

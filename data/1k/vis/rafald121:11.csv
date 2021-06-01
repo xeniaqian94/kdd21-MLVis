@@ -1,0 +1,9 @@
+type,marker.line.width,ysrc,marker.line.color,mode,xsrc,marker.size,zsrc,marker.color,marker.symbol,marker.opacity
+scatter3d,0.5,rafald121:12:2a68c0,"rgba(0, 0, 0, 0.14)",markers,rafald121:12:496681,12,rafald121:12:fe975c,#FFCDD2,,0.8
+scatter3d,1,rafald121:12:7bb3d1,"rgb(204, 204, 204)",markers,rafald121:12:9cc6d9,12,rafald121:12:1092c7,#81D4FA,circle,0.9
+scatter3d,1,rafald121:12:d098f3,"rgb(250, 250, 250)",markers,rafald121:12:2fc25e,12,rafald121:12:41e7cb,#C8E6C9,circle,0.9
+scatter3d,1,rafald121:12:558628,"rgb(250, 250, 250)",markers,rafald121:12:94182a,12,rafald121:12:780dbe,#FFF59D,circle,0.9
+scatter3d,1,rafald121:12:4ce745,"rgb(250, 250, 250)",markers,rafald121:12:985220,12,rafald121:12:0e5f0a,#a83825,circle,0.9
+scatter3d,1,rafald121:12:2d078c,"rgb(250, 250, 250)",markers,rafald121:12:4ad656,12,rafald121:12:b2d2b7,#01579B,circle,0.9
+scatter3d,1,rafald121:12:007985,"rgb(250, 250, 250)",markers,rafald121:12:39c3c2,12,rafald121:12:0e03a6,#1B5E20,circle,0.9
+scatter3d,1,rafald121:12:8f4e51,"rgb(250, 250, 250)",markers,rafald121:12:71f004,12,rafald121:12:e23412,#F9A825,circle,0.9

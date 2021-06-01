@@ -1,0 +1,3 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,olemunch:360:43af8c,1.5,olemunch:360:769b9c,solid,lines,"rgba (0, 127, 0, 1)",_line0
+scatter,y1,x1,olemunch:360:34f79a,1.5,olemunch:360:6d60f4,solid,lines,"rgba (0, 0, 0, 1)",_line1

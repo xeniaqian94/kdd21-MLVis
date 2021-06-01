@@ -1,0 +1,5 @@
+type,ysrc,stream.head,stream.fid,stream.maxpoints,xsrc,name,yaxis,marker.color,stream.token,xaxis
+scatter,Marynus:13:32d4b6,0,8,60,Marynus:13:d8f45b,Temperature,y1,,2ubkiirpi5,x1
+scatter,Marynus:13:0a18b8,0,8,60,Marynus:13:d8f45b,Humidity,y2,"rgb(148, 103, 189)",n47xsqrlz1,x2
+scatter,Marynus:13:bfff36,0,8,60,Marynus:13:d8f45b,Total VOC),y3,"rgb(60, 140, 73)",ykl6aojjwd,x3
+scatter,Marynus:13:4e3f33,0,8,60,Marynus:13:d8f45b,Barometric pressure,y4,"rgb(150, 20, 20)",3nnkwjwwup,x4

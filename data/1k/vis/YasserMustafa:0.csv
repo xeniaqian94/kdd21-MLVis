@@ -1,0 +1,2 @@
+type,marker.size,yaxis,marker.color,xaxis,marker.line.width,ysrc,marker.line.color,marker.symbol,mode,xsrc
+scatter,20.0,y1,"rgba(76,114,176,0.1)",x1,0.3,YasserMustafa:1:99ea3d,"rgba(76,114,176,0.1)",dot,markers,YasserMustafa:1:2baea7

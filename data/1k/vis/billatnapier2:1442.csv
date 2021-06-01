@@ -1,0 +1,3 @@
+type,marker.size,marker.color,marker.line.width,ysrc,mode,xsrc
+scatter,10,"rgba(255, 182, 193, .9)",2,billatnapier2:1443:35b7cd,markers,billatnapier2:1443:c2bea6
+scatter,10,"rgba(128, 182, 193, .9)",2,billatnapier2:1443:6c59e6,markers,billatnapier2:1443:c2bea6

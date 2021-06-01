@@ -1,0 +1,4 @@
+type,yaxis,ysrc,xsrc,name
+scatter,,gelei:563:53c3e5,gelei:563:99891e,Exchange Deposit Amount(Token)
+scatter,,gelei:563:487dba,gelei:563:99891e,Exchange Daily Remain Amount(Token)
+scatter,y2,gelei:563:e4cf6b,gelei:563:ed81a2,Price(USD)

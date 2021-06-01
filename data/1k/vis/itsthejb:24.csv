@@ -1,0 +1,5 @@
+type,line.shape,yaxis,ysrc,xsrc,name
+scatter,spline,y2,itsthejb:25:ca3bc6,itsthejb:25:380c83,EUR
+scatter,spline,y3,itsthejb:25:619531,itsthejb:25:380c83,GBP
+scatter,,y,itsthejb:25:9d8d03,itsthejb:25:111b16,Contributions
+scatter,spline,y,itsthejb:25:a25b5b,itsthejb:25:380c83,JPY

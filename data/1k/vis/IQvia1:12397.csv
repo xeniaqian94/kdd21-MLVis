@@ -1,0 +1,14 @@
+type,yaxis,xaxis,ysrc,showlegend,line.width,xsrc,line.dash,line.color,name
+scatter,y1,x1,IQvia1:12398:fff914,True,3,IQvia1:12398:8dd6a1,,"rgb(140, 0, 140)",Max Distance Metric
+scatter,y2,x2,IQvia1:12398:2c3efd,False,3,IQvia1:12398:8dd6a1,,,Gender
+scatter,y2,x2,IQvia1:12398:8d8b7c,False,3,IQvia1:12398:8dd6a1,,,AgeAtIndexDate
+scatter,y2,x2,IQvia1:12398:578223,False,3,IQvia1:12398:8dd6a1,,,YearOfIndexDate
+scatter,y2,x2,IQvia1:12398:ae201e,False,3,IQvia1:12398:8dd6a1,,,Duration of Therapy
+scatter,y2,x2,IQvia1:12398:a6b16d,False,3,IQvia1:12398:8dd6a1,,,asthma_ndc
+scatter,y2,x2,IQvia1:12398:fb708f,False,3,IQvia1:12398:8dd6a1,,,ALL PSYCHIATRIC EVENTS
+scatter,y2,x2,IQvia1:12398:af3578,False,3,IQvia1:12398:8dd6a1,,,SEXUAL MATURITY DISORDERS
+scatter,y3,x3,IQvia1:12398:130b86,True,3,IQvia1:12398:8dd6a1,,"rgb(22, 96, 167)",L1 Balance Metric
+scatter,y1,x1,IQvia1:12398:3861a8,True,2,IQvia1:12398:8dd6a1,dot,"rgb(22, 96, 167)",Pruning Level
+scatter,y1,x1,IQvia1:12398:7bfd7a,False,2,IQvia1:12398:99f5f5,dot,"rgb(22, 96, 167)",
+scatter,y2,x2,IQvia1:12398:c4403b,False,2,IQvia1:12398:99f5f5,dot,"rgb(22, 96, 167)",
+scatter,y3,x3,IQvia1:12398:b931d2,False,2,IQvia1:12398:99f5f5,dot,"rgb(22, 96, 167)",

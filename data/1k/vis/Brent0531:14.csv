@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,line.width,mode,xsrc,name,line.color
+scatter,,,Brent0531:15:60de69,2,lines,Brent0531:15:429c9e,平均气压,"rgb(100,208,250)"
+bar,y2,"rgb(255,115,66)",Brent0531:15:ec9007,,,Brent0531:15:429c9e,就诊人数,

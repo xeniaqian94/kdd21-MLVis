@@ -1,0 +1,5 @@
+type,marker.color,ysrc,marker.line.width,marker.line.color,orientation,mode,xsrc,name
+scatter,"rgb(55, 83, 109)",Deanac:154:33df42,,,,markers,Deanac:154:b68c58,9am_Temp
+scatter,"rgb(55, 83, 109)",Deanac:154:33df42,,,,lines+markers,Deanac:154:3fe886,3pm_Temp
+scatter,"rgb(212, 144, 204)",Deanac:154:33df42,,,,lines+markers,Deanac:154:d91554,3pm_Humidity
+bar,"rgba(255, 153, 51, 0.6)",Deanac:154:5e2fa2,1,"rgba(255, 153, 51, 1.0)",h,,Deanac:154:8ba555,A/C_kWh

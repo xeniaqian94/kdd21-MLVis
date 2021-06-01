@@ -1,0 +1,15 @@
+type,autobinx,uid,ysrc,autobiny,visible,xsrc,name
+bar,True,b3b609,ashasahadevan1:14:20887c,True,False,ashasahadevan1:14:adadfa,"DVR NOT IN  LAN, y"
+bar,True,0d5f21,ashasahadevan1:14:d08eb7,True,False,ashasahadevan1:14:adadfa,"HARD DISK ISSUES, y"
+bar,True,e84bdf,ashasahadevan1:14:011328,True,False,ashasahadevan1:14:adadfa,"NETWORK ISSUES, y; NETWORK ISSUES (1), y"
+bar,True,e4c4f3,ashasahadevan1:14:f0b0c0,True,False,ashasahadevan1:14:adadfa,"CAMERA, y"
+bar,True,047465,ashasahadevan1:14:ff1713,True,False,ashasahadevan1:14:adadfa,"DVR FAULT, y"
+bar,True,825daf,ashasahadevan1:14:297b8f,True,False,ashasahadevan1:14:adadfa,"SENSOR FAULT, y"
+bar,True,867996,ashasahadevan1:14:ee93b2,True,False,ashasahadevan1:14:adadfa,"ALARM PANNEL FAULT, y"
+bar,True,a12736,ashasahadevan1:14:b9e5ca,True,False,ashasahadevan1:14:adadfa,"BATTERY ISSUE, y"
+bar,True,3a78d8,ashasahadevan1:14:011328,True,False,ashasahadevan1:14:adadfa,"NETWORK ISSUES, y; NETWORK ISSUES (1), y"
+bar,True,44c74e,ashasahadevan1:14:214914,True,True,ashasahadevan1:14:adadfa,"BIOMETRIC, y"
+bar,True,9148c1,ashasahadevan1:14:a895dc,True,True,ashasahadevan1:14:adadfa,INFLEET CAMERA
+bar,True,16e716,ashasahadevan1:14:f8f121,True,True,ashasahadevan1:14:adadfa,HOOTER
+bar,True,f16da6,ashasahadevan1:14:eb3668,True,True,ashasahadevan1:14:adadfa,GPS
+bar,True,914a60,ashasahadevan1:14:d4985d,True,True,ashasahadevan1:14:adadfa,TAB

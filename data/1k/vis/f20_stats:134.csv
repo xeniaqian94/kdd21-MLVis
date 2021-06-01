@@ -1,0 +1,3 @@
+type,yaxis,zsrc,colorscale,zmin,xaxis,ysrc,zmax,xsrc,showlegend
+heatmap,x1,"f20_stats:202:8ed81d,3bd837,2b0047,1d4183,094fbe,625017,de088c,10e6bf,bfbc3f,f7d927,1b333f,d3293c",Portland,0,y1,f20_stats:202:bf3934,3314,f20_stats:202:483926,
+heatmap,,"f20_stats:202:65b966,d4985e,04b74c,426e41,3812d4,6930b9,46aa9b,aacc18,a5c8f5,3503f1,4b150e,e89996",Portland,0,x2,f20_stats:202:bf3934,3314,f20_stats:202:483926,False

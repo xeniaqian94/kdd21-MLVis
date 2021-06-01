@@ -1,0 +1,13 @@
+marker.size,hoverinfo,marker.color,ysrc,showlegend,xsrc,name
+,,white,thedgcgroup:2481:f767bc,,thedgcgroup:2481:b391cd,
+,,white,thedgcgroup:2481:0d98cf,,thedgcgroup:2481:b391cd,
+,,white,thedgcgroup:2481:d390be,,thedgcgroup:2481:553ec7,
+,,white,thedgcgroup:2481:1451f6,,thedgcgroup:2481:4b701b,
+,,white,thedgcgroup:2481:ad1234,,thedgcgroup:2481:3d3484,
+,,white,thedgcgroup:2481:8bcad8,,thedgcgroup:2481:1edd32,
+1,none,"rgb(212, 128, 128)",thedgcgroup:2481:8bcad8,True,thedgcgroup:2481:a730c9,ACA DASH SCORES
+1,none,"rgb(170, 128, 128)",thedgcgroup:2481:ad1234,True,thedgcgroup:2481:a730c9,Playoffs - Championship
+1,none,"rgb(128, 128, 128)",thedgcgroup:2481:1451f6,True,thedgcgroup:2481:a730c9,Playoffs - Final 4
+1,none,"rgb(85, 128, 128)",thedgcgroup:2481:d390be,True,thedgcgroup:2481:a730c9,Playoffs - Play In Round
+1,none,"rgb(42, 128, 128)",thedgcgroup:2481:0d98cf,True,thedgcgroup:2481:a730c9,Playoffs - Round of 16
+1,none,"rgb(0, 128, 128)",thedgcgroup:2481:f767bc,True,thedgcgroup:2481:a730c9,Playoffs - Round of 8

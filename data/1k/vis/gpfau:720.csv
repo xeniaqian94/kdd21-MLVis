@@ -1,0 +1,4 @@
+type,ysrc,textsrc,xsrc,name
+scatter,gpfau:1114:471aa8,gpfau:1114:a9fe8f,gpfau:1114:ed7964,Daily Avg.
+scatter,gpfau:1114:3df024,gpfau:1114:3cd43e,gpfau:1114:ed7964,7 Day Avg.
+scatter,gpfau:1114:952a58,gpfau:1114:fca469,gpfau:1114:ed7964,30 Day Avg.

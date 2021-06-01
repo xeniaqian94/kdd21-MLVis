@@ -1,0 +1,8 @@
+type,hoverinfo,line.shape,ysrc,connectgaps,line.dash,mode,xsrc,name,line.color
+scatter,,,ppop:68:ca6a78,,,lines+markers,ppop:68:7d52cd,Total,"rgb(0, 255, 0)"
+scatter,,,ppop:68:609cf5,,,lines+markers,ppop:68:7d52cd,Bitstamp,"rgb(255, 128, 0)"
+scatter,,,ppop:68:3f89fa,,,lines+markers,ppop:68:7d52cd,Bittrex,"rgb(51, 51, 255)"
+scatter,,,ppop:68:24e340,,,lines+markers,ppop:68:7d52cd,Bitfinex,"rgb(153, 153, 0)"
+scatter,,,ppop:68:796a14,True,dash,lines+markers,ppop:68:7d52cd,Buy and Hold BTC,"rgb(0, 0, 0)"
+scatter,,,ppop:68:762ab0,True,,spline,ppop:68:7d52cd,Market cap (relative),"rgb(50, 100, 200)"
+scatter,name,linear,ppop:68:2fe372,,,lines+markers,ppop:68:2de475,Pace,"rgb(255, 0, 0)"

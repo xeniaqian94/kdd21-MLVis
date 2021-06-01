@@ -1,0 +1,13 @@
+type,ysrc,jitter,boxpoints,name,boxmean,pointpos
+box,dudenz:200:0bae06,0.3,all,3day<br>6time<br>OWM<br>Temperature<br>Mean:0.02<br>STD:2.39,sd,-1.8
+box,dudenz:200:0da7b5,0.3,all,3day<br>6time<br>OWM<br>Rain<br>Mean:0.02<br>STD:0.19,sd,-1.8
+box,dudenz:200:e30b36,0.3,all,3day<br>6time<br>OWM<br>Wind<br>Mean:0.15<br>STD:1.84,sd,-1.8
+box,dudenz:200:a93376,0.3,all,3day<br>12time<br>OWM<br>Temperature<br>Mean:0.33<br>STD:2.06,sd,-1.8
+box,dudenz:200:bf82ad,0.3,all,3day<br>12time<br>OWM<br>Rain<br>Mean:-0.01<br>STD:0.31,sd,-1.8
+box,dudenz:200:d1a566,0.3,all,3day<br>12time<br>OWM<br>Wind<br>Mean:0.29<br>STD:2.20,sd,-1.8
+box,dudenz:200:532698,0.3,all,3day<br>18time<br>OWM<br>Temperature<br>Mean:-2.26<br>STD:2.61,sd,-1.8
+box,dudenz:200:74c3f9,0.3,all,3day<br>18time<br>OWM<br>Rain<br>Mean:0.03<br>STD:0.21,sd,-1.8
+box,dudenz:200:27384e,0.3,all,3day<br>18time<br>OWM<br>Wind<br>Mean:-0.14<br>STD:2.03,sd,-1.8
+box,dudenz:200:3412fd,0.3,all,3day<br>21time<br>OWM<br>Temperature<br>Mean:-0.47<br>STD:2.27,sd,-1.8
+box,dudenz:200:e850e9,0.3,all,3day<br>21time<br>OWM<br>Rain<br>Mean:0.02<br>STD:0.24,sd,-1.8
+box,dudenz:200:e67b28,0.3,all,3day<br>21time<br>OWM<br>Wind<br>Mean:0.17<br>STD:2.06,sd,-1.8

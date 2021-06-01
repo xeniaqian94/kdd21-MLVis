@@ -1,0 +1,3 @@
+type,ysrc,line.width,text,xsrc,line.dash,mode,line.color,name
+scatter,jcasarrubios:159:b4ce8f,1.3,,jcasarrubios:159:c35d5b,solid,lines,"rgba(255, 153, 51, 1.0)",Temperatura Media Cº
+scatter,jcasarrubios:159:bba0aa,1.3,,jcasarrubios:159:c35d5b,solid,lines,"rgba(55, 128, 191, 1.0)",Oxido de Nitrógeno

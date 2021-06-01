@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,line.width,mode,xsrc,name,line.color
+scatter,,,BrentCCNU:5:50fb2e,2,lines,BrentCCNU:5:86b379,NO2,"rgb(100,208,250)"
+bar,y2,"rgb(255,115,66)",BrentCCNU:5:99a2a3,,,BrentCCNU:5:86b379,人数,

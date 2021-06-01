@@ -1,0 +1,3 @@
+type,ysrc,line.width,xsrc,name
+scatter,devit-licensing:230:70c45e,2,devit-licensing:230:36dd0c,Disk Space Used by VM Disks
+scatter,devit-licensing:230:813a45,2,devit-licensing:230:36dd0c,Disk Space Used by Snapshots

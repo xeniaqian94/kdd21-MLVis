@@ -1,0 +1,15 @@
+type,yaxis,xaxis,ysrc,xsrc,name
+bar,y1,x1,IQvia1:12290:a8940a,IQvia1:12290:2636e4,Gender
+bar,y3,x3,IQvia1:12290:027fab,IQvia1:12290:99cda8,AgeAtIndexDate
+bar,y5,x5,IQvia1:12290:c9789e,IQvia1:12290:ad4ceb,YearOfIndexDate
+bar,y7,x7,IQvia1:12290:827d61,IQvia1:12290:8e6b15,Duration of Therapy
+bar,y9,x9,IQvia1:12290:7d6124,IQvia1:12290:67ac9d,ALL PSYCHIATRIC EVENTS
+bar,y11,x11,IQvia1:12290:a08d22,IQvia1:12290:67ac9d,SEXUAL MATURITY DISORDERS
+bar,y13,x13,IQvia1:12290:53e153,IQvia1:12290:67ac9d,Dexamphetamine
+bar,y2,x2,IQvia1:12290:a8940a,IQvia1:12290:662f37,Gender
+bar,y4,x4,IQvia1:12290:027fab,IQvia1:12290:99cda8,AgeAtIndexDate
+bar,y6,x6,IQvia1:12290:c9789e,IQvia1:12290:ad4ceb,YearOfIndexDate
+bar,y8,x8,IQvia1:12290:827d61,IQvia1:12290:8e6b15,Duration of Therapy
+bar,y10,x10,IQvia1:12290:7d6124,IQvia1:12290:67ac9d,ALL PSYCHIATRIC EVENTS
+bar,y12,x12,IQvia1:12290:a08d22,IQvia1:12290:67ac9d,SEXUAL MATURITY DISORDERS
+bar,y14,x14,IQvia1:12290:53e153,IQvia1:12290:67ac9d,Dexamphetamine

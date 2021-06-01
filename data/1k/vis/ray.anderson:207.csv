@@ -1,0 +1,3 @@
+type,mode,yaxis,xaxis,ysrc,showlegend,visible,marker.symbol,xsrc,name
+scatter,markers,y1,x1,ray.anderson:208:ace9f3,True,True,circle,ray.anderson:208:d3e043,H_2O sig strength
+scatter,markers,y1,x1,ray.anderson:208:a6a15b,True,True,circle,ray.anderson:208:d3e043,CO_2 sig strength

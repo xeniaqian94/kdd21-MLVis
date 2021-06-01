@@ -1,0 +1,15 @@
+type,ysrc,mode,xsrc,name
+scatter,devit-licensing:377:4d4d1c,lines,devit-licensing:377:26a93b,ioa-ast03
+scatter,devit-licensing:377:e36714,lines,devit-licensing:377:26a93b,ioa-ful01
+scatter,devit-licensing:377:42809f,lines,devit-licensing:377:26a93b,ioa-bxb200
+scatter,devit-licensing:377:55d4f2,lines,devit-licensing:377:26a93b,ioa-blr11
+scatter,devit-licensing:377:aeeeae,lines,devit-licensing:377:26a93b,ioa-rtp6
+scatter,devit-licensing:377:6c348a,lines,devit-licensing:377:26a93b,ioa-clg5
+scatter,devit-licensing:377:c5e60b,lines,devit-licensing:377:26a93b,ioa-prg5
+scatter,devit-licensing:377:fc3eac,lines,devit-licensing:377:0c9b82,u90-scratch
+scatter,devit-licensing:377:76a7b4,lines,devit-licensing:377:2a74e3,u45-scratch
+scatter,devit-licensing:377:aa788c,lines,devit-licensing:377:2a74e3,u71-scratch
+scatter,devit-licensing:377:8f316a,lines,devit-licensing:377:2a74e3,u32-scratch
+scatter,devit-licensing:377:a410bc,lines,devit-licensing:377:ba35cf,u70-scratch
+scatter,devit-licensing:377:bc5f10,lines,devit-licensing:377:ba35cf,clg-opsview
+scatter,devit-licensing:377:6a5717,lines,devit-licensing:377:ba35cf,prg5-opsview

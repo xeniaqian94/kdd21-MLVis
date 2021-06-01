@@ -1,0 +1,5 @@
+ysrc,mode,xsrc,name
+bpatoutset:394:d54001,line,bpatoutset:394:5d8dd8,ROPC_ROFC_ratio
+bpatoutset:394:f0aa5e,line,bpatoutset:394:5d8dd8,PSPr_SPR_ratio
+bpatoutset:394:eb45fa,line,bpatoutset:394:5d8dd8,PCPr_PSPr_ratio
+bpatoutset:394:7cc89c,line,bpatoutset:394:5d8dd8,PODPr_TWIPr_ratio

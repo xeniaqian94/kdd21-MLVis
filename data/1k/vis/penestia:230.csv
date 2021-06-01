@@ -1,0 +1,2 @@
+type,marker.size,marker.color,uid,marker.line.width,ysrc,marker.symbol,marker.opacity,mode,xsrc
+scattergl,9,"rgb(245, 0, 84)",8865e7,1,penestia:231:64575a,asterisk-open,1,markers,penestia:231:fe53a7

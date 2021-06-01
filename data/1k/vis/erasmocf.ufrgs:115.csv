@@ -1,0 +1,16 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,erasmocf.ufrgs:116:a47e58,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (31, 119, 180, 1)",close
+scatter,y1,x1,erasmocf.ufrgs:116:ccfe98,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (255, 127, 14, 1)",MA180
+scatter,y1,x1,erasmocf.ufrgs:116:193ccd,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (44, 160, 44, 1)",MA90
+scatter,y1,x1,erasmocf.ufrgs:116:0325a3,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (214, 39, 40, 1)",MA30
+scatter,y1,x1,erasmocf.ufrgs:116:c28544,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (148, 103, 189, 1)",MA15
+scatter,y1,x1,erasmocf.ufrgs:116:69696a,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (140, 86, 75, 1)",MA7
+scatter,y1,x1,erasmocf.ufrgs:116:65f908,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (227, 119, 194, 1)",MA1
+scatter,y2,x1,erasmocf.ufrgs:116:6a9908,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (31, 119, 180, 1)",log_MA1/7
+scatter,y2,x1,erasmocf.ufrgs:116:c85608,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (255, 127, 14, 1)",log_MA7/15
+scatter,y2,x1,erasmocf.ufrgs:116:a3b2d0,1.5,erasmocf.ufrgs:116:5b33d0,solid,lines,"rgba (44, 160, 44, 1)",log_MA15/30
+scatter,y3,x1,erasmocf.ufrgs:116:229b8e,1.5,erasmocf.ufrgs:116:f4be59,solid,lines,"rgba (31, 119, 180, 1)",close
+scatter,y3,x1,erasmocf.ufrgs:116:80009d,1.5,erasmocf.ufrgs:116:f4be59,solid,lines,"rgba (255, 127, 14, 1)",MA30
+scatter,y3,x1,erasmocf.ufrgs:116:a03883,1.5,erasmocf.ufrgs:116:f4be59,solid,lines,"rgba (44, 160, 44, 1)",MA15
+scatter,y3,x1,erasmocf.ufrgs:116:d5e268,1.5,erasmocf.ufrgs:116:f4be59,solid,lines,"rgba (214, 39, 40, 1)",MA7
+scatter,y3,x1,erasmocf.ufrgs:116:4861f6,1.5,erasmocf.ufrgs:116:f4be59,solid,lines,"rgba (148, 103, 189, 1)",MA1

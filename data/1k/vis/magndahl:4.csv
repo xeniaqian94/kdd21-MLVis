@@ -1,0 +1,2 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,magndahl:5:c8cb06,2.0,magndahl:5:2d75a2,solid,lines,"rgba (255, 0, 0, 1)",Forecast

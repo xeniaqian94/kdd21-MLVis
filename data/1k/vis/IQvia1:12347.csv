@@ -1,0 +1,10 @@
+type,yaxis,xaxis,ysrc,showlegend,line.width,xsrc,line.color,name
+scatter,y1,x1,IQvia1:12348:647c38,True,3,IQvia1:12348:e51543,"rgb(140, 0, 140)",Max Distance Metric
+scatter,y2,x2,IQvia1:12348:53f1be,False,3,IQvia1:12348:e51543,,Gender
+scatter,y2,x2,IQvia1:12348:9a83b3,False,3,IQvia1:12348:e51543,,AgeAtIndexDate
+scatter,y2,x2,IQvia1:12348:f51e7e,False,3,IQvia1:12348:e51543,,YearOfIndexDate
+scatter,y2,x2,IQvia1:12348:175f05,False,3,IQvia1:12348:e51543,,Duration of Therapy
+scatter,y2,x2,IQvia1:12348:53f1be,False,3,IQvia1:12348:e51543,,asthma_ndc
+scatter,y2,x2,IQvia1:12348:53f1be,False,3,IQvia1:12348:e51543,,ALL PSYCHIATRIC EVENTS
+scatter,y2,x2,IQvia1:12348:53f1be,False,3,IQvia1:12348:e51543,,SEXUAL MATURITY DISORDERS
+scatter,y3,x3,IQvia1:12348:e7593a,True,3,IQvia1:12348:e51543,"rgb(22, 96, 167)",L1 Balance Metric

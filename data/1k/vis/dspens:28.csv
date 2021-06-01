@@ -1,0 +1,11 @@
+type,opacity,ysrc,xsrc,name,line.color
+scatter,0.8,dspens:29:c145cb,dspens:29:247587,bitcoin,#17BECF
+scatter,0.8,dspens:29:41664b,dspens:29:247587,litecoin,#7F7F7F
+scatter,0.8,dspens:29:861235,dspens:29:247587,binance-coin,#7F7F7F
+scatter,0.8,dspens:29:d18967,dspens:29:247587,tron,#7F7F7F
+scatter,0.8,dspens:29:1fd87d,dspens:29:247587,coindash,#7F7F7F
+scatter,0.8,dspens:29:fc5605,dspens:29:247587,bytecoin-bcn,#7F7F7F
+scatter,0.8,dspens:29:76da6e,dspens:29:247587,verge,#7F7F7F
+scatter,0.8,dspens:29:5aab7c,dspens:29:247587,ethereum,#7F7F7F
+scatter,0.8,dspens:29:397eda,dspens:29:247587,poet,#7F7F7F
+scatter,0.8,dspens:29:0e07b0,dspens:29:247587,iota,#7F7F7F

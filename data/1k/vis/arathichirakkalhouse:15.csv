@@ -1,0 +1,15 @@
+type,uid,ysrc,visible,xsrc,name
+bar,b3b609,arathichirakkalhouse:14:754e9d,True,arathichirakkalhouse:14:96c8d7,DVR NOT IN  LAN
+bar,0d5f21,arathichirakkalhouse:14:01e638,True,arathichirakkalhouse:14:96c8d7,HARD DISK ISSUES
+bar,e84bdf,arathichirakkalhouse:14:69e777,True,arathichirakkalhouse:14:96c8d7,NETWORK ISSUES
+bar,e4c4f3,arathichirakkalhouse:14:8cb2da,True,arathichirakkalhouse:14:96c8d7,CAMERA
+bar,047465,arathichirakkalhouse:14:32e28c,True,arathichirakkalhouse:14:96c8d7,DVR FAULT
+bar,825daf,arathichirakkalhouse:14:2c9969,True,arathichirakkalhouse:14:96c8d7,SENSOR FAULT
+bar,867996,arathichirakkalhouse:14:bb9ead,True,arathichirakkalhouse:14:96c8d7,ALARM PANNEL FAULT
+bar,a12736,arathichirakkalhouse:14:6473e0,True,arathichirakkalhouse:14:96c8d7,BATTERY ISSUE
+bar,3a78d8,arathichirakkalhouse:14:69e777,True,arathichirakkalhouse:14:96c8d7,NETWORK ISSUES
+bar,44c74e,arathichirakkalhouse:14:dbcd52,True,arathichirakkalhouse:14:96c8d7,BIOMETRIC
+bar,9148c1,arathichirakkalhouse:14:85710d,True,arathichirakkalhouse:14:96c8d7,INFLEET CAMERA
+bar,16e716,arathichirakkalhouse:14:85710d,True,arathichirakkalhouse:14:96c8d7,HOOTER
+bar,f16da6,arathichirakkalhouse:14:85710d,True,arathichirakkalhouse:14:96c8d7,GPS
+bar,914a60,arathichirakkalhouse:14:85710d,True,arathichirakkalhouse:14:96c8d7,TAB

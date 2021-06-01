@@ -1,0 +1,5 @@
+type,line.shape,uid,ysrc,line.width,visible,mode,xsrc,name,marker.size,autobinx,autobiny,marker.symbol,connectgaps,showlegend,line.color
+scatter,linear,b3b609,arathichirakkalhouse:6:4248bf,3,True,,arathichirakkalhouse:6:5e6de4,SLA,3,True,True,circle,False,True,"rgb(0, 0, 155)"
+scatter,linear,0d5f21,arathichirakkalhouse:6:98bc8d,3,True,lines,arathichirakkalhouse:6:5e6de4,RESPONSE TIME,3,True,True,circle,False,True,"rgb(0, 108, 255)"
+scatter,linear,e84bdf,arathichirakkalhouse:6:0d7df7,3,True,lines,arathichirakkalhouse:6:5e6de4,REACTION TIME,3,True,True,circle,False,True,"rgb(98, 255, 146)"
+scatter,linear,e4c4f3,arathichirakkalhouse:6:cc9578,3,,lines,arathichirakkalhouse:6:5e6de4,RESOLUTION TIME ,3,True,True,circle,False,True,"rgb(255, 147, 0)"

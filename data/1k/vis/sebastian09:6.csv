@@ -1,0 +1,5 @@
+type,locationmode,latsrc,lonsrc,marker.color,marker.line.width,marker.line.color,marker.sizemode,name
+scattergeo,africa,sebastian09:7:67f95d,sebastian09:7:608944,"rgb(0,116,217)",0.5,"rgb(40,40,40)",area,Adults
+scattergeo,africa,sebastian09:7:87cb6f,sebastian09:7:61ce75,"rgb(255,65,54)",0.5,"rgb(40,40,40)",area,"Adults, Larvae"
+scattergeo,africa,sebastian09:7:afdd07,sebastian09:7:609203,"rgb(133,20,75)",0.5,"rgb(40,40,40)",area,Larvae
+scattergeo,africa,sebastian09:7:ae66de,sebastian09:7:5a2dae,"rgb(255,133,27)",0.5,"rgb(40,40,40)",area,Unknown

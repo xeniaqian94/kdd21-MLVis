@@ -1,0 +1,6 @@
+type,opacity,marker.size,zsrc,marker.color,ysrc,xsrc,name
+scatter3d,0.5,5,Lilyminium:71:6e43c4,#d83113,Lilyminium:71:1c7c42,Lilyminium:71:305de2,GROMOS 54A7
+scatter3d,0.5,5,Lilyminium:71:63ee9b,#006fd4,Lilyminium:71:dcf7e9,Lilyminium:71:99adc5,CHARMM 36/PAR
+scatter3d,0.5,5,Lilyminium:71:0e6c1f,#461b7c,Lilyminium:71:c41c61,Lilyminium:71:99adc5,OPLS-AA/L
+scatter3d,0.5,5,Lilyminium:71:9b5cd9,#764903,Lilyminium:71:217e09,Lilyminium:71:f0ab4a,AMBER 99SB-ILDN
+scatter3d,0.5,5,Lilyminium:71:45926e,#004931,Lilyminium:71:1ac7c6,Lilyminium:71:6f4708,MARTINI

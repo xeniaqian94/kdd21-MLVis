@@ -1,0 +1,4 @@
+type,marker.color,ysrc,marker.symbol,xsrc,name
+scatter,purple,twproject:28:99e46b,square,twproject:28:e8df04,Download (Mbit/s)
+scatter,,twproject:28:a57e8f,,twproject:28:e8df04,Upload (Mbit/s)
+scatter,,twproject:28:8925df,,twproject:28:e8df04,Ping (ms)

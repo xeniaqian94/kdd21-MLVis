@@ -1,0 +1,10 @@
+type,xbins.start,xbins.size,ysrc,text,mode,xsrc,name,xbins.end,opacity,legendgroup,yaxis,histnorm,marker.color,autobinx,marker.symbol,xaxis,showlegend
+histogram,56.0,5,,,,hansele:40403:7714b8,Sensitive Receptor,96.4,0.7,Sensitive Receptor,y1,probability density,"rgb(246, 78, 139)",False,,x1,
+histogram,60.7,5,,,,hansele:40403:4acc13,Construction,104.6,0.7,Construction,y1,probability density,"rgb(48,129,238)",False,,x1,
+histogram,57.3,5,,,,hansele:40403:8e7755,Ambient,76.4,0.7,Ambient,y1,probability density,"rgb(58, 71, 80)",False,,x1,
+scatter,,,hansele:40403:5ba002,,lines,hansele:40403:60c654,Sensitive Receptor,,,Sensitive Receptor,y1,,"rgb(246, 78, 139)",,,x1,False
+scatter,,,hansele:40403:ade7a7,,lines,hansele:40403:000cf7,Construction,,,Construction,y1,,"rgb(48,129,238)",,,x1,False
+scatter,,,hansele:40403:7f0e70,,lines,hansele:40403:67043f,Ambient,,,Ambient,y1,,"rgb(58, 71, 80)",,,x1,False
+scatter,,,hansele:40403:d603a6,,markers,hansele:40403:7714b8,Sensitive Receptor,,,Sensitive Receptor,y2,,"rgb(246, 78, 139)",,line-ns-open,x1,False
+scatter,,,hansele:40403:a41863,,markers,hansele:40403:4acc13,Construction,,,Construction,y2,,"rgb(48,129,238)",,line-ns-open,x1,False
+scatter,,,hansele:40403:dd2789,,markers,hansele:40403:8e7755,Ambient,,,Ambient,y2,,"rgb(58, 71, 80)",,line-ns-open,x1,False

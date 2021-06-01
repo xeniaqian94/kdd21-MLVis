@@ -1,0 +1,9 @@
+type,yaxis,xaxis,ysrc,xsrc,name
+bar,y1,x1,IQvia1:12326:94eab5,IQvia1:12326:aaf80a,Gender
+bar,y2,x2,IQvia1:12326:0e1df4,IQvia1:12326:413241,AgeAtIndexDate
+bar,y3,x3,IQvia1:12326:5d2e37,IQvia1:12326:890f7a,YearOfIndexDate
+bar,y4,x4,IQvia1:12326:7cd3c0,IQvia1:12326:e0381a,Duration of Therapy
+bar,y5,x5,IQvia1:12326:2e8eee,IQvia1:12326:a1153a,asthma_ndc
+bar,y6,x6,IQvia1:12326:0f0ce3,IQvia1:12326:a1153a,ALL PSYCHIATRIC EVENTS
+bar,y7,x7,IQvia1:12326:b80b48,IQvia1:12326:a1153a,SEXUAL MATURITY DISORDERS
+bar,y8,x8,IQvia1:12326:a02540,IQvia1:12326:a1153a,Dexamphetamine

@@ -1,0 +1,9 @@
+legendgroup,type,marker.color,ysrc,visible,showlegend,name
+Power Five,box,orange,rachehlers:38:b6d162,,True,Power Five
+Others,box,blue,rachehlers:38:94e4be,,True,Others
+Power Five,box,orange,rachehlers:38:83ee79,False,True,Power Five
+Others,box,blue,rachehlers:38:0e2085,False,True,Others
+Power Five,box,orange,rachehlers:38:d53066,False,True,Power Five
+Others,box,blue,rachehlers:38:206ae5,False,True,Others
+Power Five,box,orange,rachehlers:38:627bbb,False,True,Power Five
+Others,box,blue,rachehlers:38:9aa1ac,False,True,Others

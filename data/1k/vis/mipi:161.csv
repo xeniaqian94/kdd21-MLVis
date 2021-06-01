@@ -1,0 +1,6 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,mipi:598:1af254,1.0,mipi:598:eff26f,solid,lines,"rgba (255, 0, 0, 1)",Br0701
+scatter,y1,x1,mipi:598:118335,1.0,mipi:598:247894,solid,lines,"rgba (0, 0, 255, 1)",Br9101Ka
+scatter,y1,x1,mipi:598:ccf6cc,1.0,mipi:598:88f68b,solid,lines,"rgba (0, 0, 0, 1)",R94
+scatter,y1,x1,mipi:598:c1851e,1.0,mipi:598:6ae00c,dash,lines,"rgba (255, 0, 0, 1)",pumpens ung nivå
+scatter,y2,x2,mipi:598:47fd90,1.0,mipi:598:a31ea8,solid,lines,"rgba (0, 127, 0, 1)",17095

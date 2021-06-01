@@ -1,0 +1,8 @@
+ysrc,mode,xsrc,name
+bpatoutset:962:e8fec3,line,bpatoutset:962:f96170,DIALC_ACDC_diff
+bpatoutset:962:1a23ab,line,bpatoutset:962:f96170,ACDC_ROPC_diff
+bpatoutset:962:8234c0,line,bpatoutset:962:f96170,DIALC_ROPC_diff
+bpatoutset:962:498f34,line,bpatoutset:962:f96170,ROFC_ROFCT_ratio
+bpatoutset:962:880d1d,line,bpatoutset:962:f96170,ROPCT_ROPCTM_ratio
+bpatoutset:962:39ebe4,line,bpatoutset:962:f96170,ACDCT_ACDCTM_ratio
+bpatoutset:962:e6e6c8,line,bpatoutset:962:f96170,DIALCT_MT_ratio

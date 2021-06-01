@@ -1,0 +1,5 @@
+type,autobinx,uid,ysrc,autobiny,mode,xsrc,name
+scatter,True,5ad4a7,abuxser:24:0aeeb2,True,lines,abuxser:24:f42ed3,"Ambient, y"
+scatter,True,f32ced,abuxser:24:aa8b34,True,lines,abuxser:24:f42ed3,"Fridge, y (1), y"
+scatter,True,5d6f28,abuxser:24:b22b68,True,lines,abuxser:24:f42ed3,"Right Chamber, y"
+scatter,True,ddf3c0,abuxser:24:4d30ff,True,lines,abuxser:24:f42ed3,"Left Chamber, y (1)"

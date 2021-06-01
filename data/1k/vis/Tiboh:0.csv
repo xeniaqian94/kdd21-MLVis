@@ -1,0 +1,10 @@
+type,yaxis,xaxis,ysrc,mode,xsrc,name
+scatter,,,Tiboh:1:3ab237,,Tiboh:1:c97e77,Balance in $
+scatter,,,Tiboh:1:60300d,,Tiboh:1:c97e77,Funds in $
+scatter,y2,,Tiboh:1:55b17d,,Tiboh:1:c97e77,Funds in Ƀ
+,,,Tiboh:1:d76113,,Tiboh:1:c97e77,Ƀ value in $
+scatter,,,Tiboh:1:25282f,markers,Tiboh:1:326a6c,RSI-14 below 30
+scatter,,,Tiboh:1:5ff5a2,markers,Tiboh:1:535d42,RSI-14 above 70
+scatter,y3,x,Tiboh:1:cab095,,Tiboh:1:31b6f7,RSI-14 value
+scatter,y3,x,Tiboh:1:8fd071,,Tiboh:1:c97e77,
+scatter,y3,x,Tiboh:1:12d32f,,Tiboh:1:c97e77,

@@ -1,0 +1,25 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,awa2:11:13529d,1.0,awa2:11:076443,solid,lines,"rgba (30, 144, 255, 1)",_line0
+scatter,y1,x1,awa2:11:23aff9,1.0,awa2:11:15f8a2,solid,lines,"rgba (135, 206, 250, 1)",_line3
+scatter,y1,x1,awa2:11:8811d9,1.0,awa2:11:10f007,dash,lines,"rgba (135, 206, 250, 1)",_line6
+scatter,y1,x1,awa2:11:9d59e2,1.0,awa2:11:832f8e,solid,lines,"rgba (105, 105, 105, 1)",_line9
+scatter,y1,x1,awa2:11:e600ae,1.0,awa2:11:7af122,dash,lines,"rgba (105, 105, 105, 1)",_line12
+scatter,y1,x1,awa2:11:c61625,1.0,awa2:11:324bed,dash,lines,"rgba (192, 192, 192, 1)",_line15
+scatter,y2,x2,awa2:11:2fd1d6,1.0,awa2:11:076443,solid,lines,"rgba (30, 144, 255, 1)",_line0
+scatter,y2,x2,awa2:11:329ec7,1.0,awa2:11:15f8a2,solid,lines,"rgba (135, 206, 250, 1)",_line4
+scatter,y2,x2,awa2:11:ebf2e5,1.0,awa2:11:10f007,dash,lines,"rgba (135, 206, 250, 1)",_line8
+scatter,y2,x2,awa2:11:7011ee,1.0,awa2:11:832f8e,solid,lines,"rgba (105, 105, 105, 1)",_line12
+scatter,y2,x2,awa2:11:5e5682,1.0,awa2:11:7af122,dash,lines,"rgba (105, 105, 105, 1)",_line16
+scatter,y2,x2,awa2:11:137d69,1.0,awa2:11:324bed,dash,lines,"rgba (192, 192, 192, 1)",_line20
+scatter,y3,x3,awa2:11:405336,1.0,awa2:11:076443,solid,lines,"rgba (30, 144, 255, 1)",_line0
+scatter,y3,x3,awa2:11:a661bd,1.0,awa2:11:15f8a2,solid,lines,"rgba (135, 206, 250, 1)",_line4
+scatter,y3,x3,awa2:11:49548d,1.0,awa2:11:10f007,dash,lines,"rgba (135, 206, 250, 1)",_line8
+scatter,y3,x3,awa2:11:4922cb,1.0,awa2:11:832f8e,solid,lines,"rgba (105, 105, 105, 1)",_line12
+scatter,y3,x3,awa2:11:254809,1.0,awa2:11:7af122,dash,lines,"rgba (105, 105, 105, 1)",_line16
+scatter,y3,x3,awa2:11:8a5899,1.0,awa2:11:324bed,dash,lines,"rgba (192, 192, 192, 1)",_line20
+scatter,y4,x4,awa2:11:f203a8,1.0,awa2:11:076443,solid,lines,"rgba (30, 144, 255, 1)",_line0
+scatter,y4,x4,awa2:11:cd3d43,1.0,awa2:11:15f8a2,solid,lines,"rgba (135, 206, 250, 1)",_line4
+scatter,y4,x4,awa2:11:f80368,1.0,awa2:11:10f007,dash,lines,"rgba (135, 206, 250, 1)",_line8
+scatter,y4,x4,awa2:11:2fef41,1.0,awa2:11:832f8e,solid,lines,"rgba (105, 105, 105, 1)",_line12
+scatter,y4,x4,awa2:11:9a324a,1.0,awa2:11:7af122,dash,lines,"rgba (105, 105, 105, 1)",_line16
+scatter,y4,x4,awa2:11:5d058d,1.0,awa2:11:324bed,dash,lines,"rgba (192, 192, 192, 1)",_line20

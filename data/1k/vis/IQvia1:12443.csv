@@ -1,0 +1,5 @@
+type,ysrc,line.width,line.dash,xsrc,name,line.color
+scatter,IQvia1:12444:c4a0f6,3,,IQvia1:12444:157872,Model - UCol-data-analysis-5-nonCV - Train,"rgb(22, 96, 167)"
+scatter,IQvia1:12444:68840b,2,dot,IQvia1:12444:6dad5a,Model - UCol-data-analysis-5-nonCV - Test,"rgb(22, 96, 167)"
+scatter,IQvia1:12444:68840b,2,dot,IQvia1:12444:6dad5a,Best Possible,"rgb(22, 167, 22)"
+scatter,IQvia1:12444:8a0b7a,2,dash,IQvia1:12444:e5eda3,Null Hypothesis,"rgb(167, 22, 22)"

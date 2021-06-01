@@ -1,0 +1,5 @@
+type,yaxis,ysrc,xsrc,name
+scatter,,gelei:561:bd07f3,gelei:561:2a380d,0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be
+scatter,,gelei:561:7e2b88,gelei:561:2a380d,0xfaabe432a1e6843f3486f11fa360a1e1248677fc
+scatter,,gelei:561:fae4d3,gelei:561:2a380d,0x5c985e89dde482efe97ea9f1950ad149eb73829b
+scatter,y2,gelei:561:3c6454,gelei:561:008545,Price(USD)

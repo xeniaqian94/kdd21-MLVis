@@ -1,0 +1,4 @@
+type,yaxis,marker.color,xaxis,ysrc,marker.line.color,orientation,marker.fillcolor,xsrc,name
+bar,y,"rgba(31,119,180,1)",x,taylorsco:13:8d1cf6,transparent,h,"rgba(31,119,180,1)",taylorsco:13:eb9fbd,Revenue
+bar,y2,"rgba(255,127,14,1)",x2,taylorsco:13:8d1cf6,transparent,h,"rgba(31,119,180,1)",taylorsco:13:e7f4d9,Orders
+bar,y3,"rgba(44,160,44,1)",x3,taylorsco:13:8d1cf6,transparent,h,"rgba(31,119,180,1)",taylorsco:13:988efe,Pageviews

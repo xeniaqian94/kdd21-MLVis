@@ -1,0 +1,5 @@
+"Gender, x","Gender, y; Gender (1), y","AgeAtIndexDate, x","AgeAtIndexDate, y","YearOfIndexDate, x; YearOfIndexDate (1), x","YearOfIndexDate, y; YearOfIndexDate (1), y","Duration of Therapy, x","Duration of Therapy, y","asthma_ndc, x; ALL PSYCHIATRIC EVENTS, x; SEXUAL MATURITY DISORDERS, x; Dexamphetamine, x; asthma_ndc (1), x; ALL PSYCHIATRIC EVENTS (1), x; SEXUAL MATURITY DISORDERS (1), x; Dexamphetamine (1), x","asthma_ndc, y; asthma_ndc (1), y","ALL PSYCHIATRIC EVENTS, y; ALL PSYCHIATRIC EVENTS (1), y","SEXUAL MATURITY DISORDERS, y; SEXUAL MATURITY DISORDERS (1), y","Dexamphetamine, y; Dexamphetamine (1), y","Gender (1), x","AgeAtIndexDate (1), x","AgeAtIndexDate (1), y","Duration of Therapy (1), x","Duration of Therapy (1), y"
+56d0c5,be4272,93da86,c4fbbd,09bbf2,a7a712,aff9a0,371461,fb2f02,477829,8d19e5,43860d,079245,e993a1,7f0a55,e1d7bf,3ee427,047cc9
+[F],29413,[6],6529,[2006],2752,"[(-2.2, 33.5]]",18000,[0],99604,89694,99348,97613,[0],[6.0],16390,[1.0],49967
+[M],70212,[7],9861,[2007],6203,"[(33.5, 66]]",5691,[1],29,9939,285,2020,[1],[7.833],21695,[325.8],18921
+[U],8,[8],10904,[2008],11934,"[(66, 98.4]]",4373,,,,,,[2],[9.667],18738,[650.6],11613

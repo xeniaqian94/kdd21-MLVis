@@ -1,0 +1,7 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,mipi:576:0b9c65,1.0,mipi:576:451e16,solid,lines,"rgba (255, 0, 0, 1)",Br1301
+scatter,y1,x1,mipi:576:56a3fb,1.0,mipi:576:048881,solid,lines,"rgba (0, 127, 0, 1)",Br1601 10min medel
+scatter,y1,x1,mipi:576:177c95,1.0,mipi:576:6e6224,solid,lines,"rgba (0, 0, 255, 1)",Br1602
+scatter,y2,x2,mipi:576:d9920a,1.0,mipi:576:58f057,solid,lines,"rgba (255, 0, 0, 1)",Br1301
+scatter,y2,x2,mipi:576:2b9e90,1.0,mipi:576:b6704f,solid,lines,"rgba (0, 127, 0, 1)",Br1601
+scatter,y2,x2,mipi:576:d5cff3,1.0,mipi:576:4cd415,solid,lines,"rgba (0, 0, 255, 1)",Br1602

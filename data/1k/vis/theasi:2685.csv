@@ -1,0 +1,4 @@
+type,ysrc,mode,xsrc,name
+scatter,theasi:2715:8baa66,markers,theasi:2715:f7f9ea,Ping (ms)
+scatter,theasi:2715:20122f,lines+markers,theasi:2715:f7f9ea,Download (Mbit/s)
+scatter,theasi:2715:f3f12d,lines,theasi:2715:f7f9ea,Upload (Mbit/s)

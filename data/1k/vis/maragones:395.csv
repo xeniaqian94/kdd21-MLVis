@@ -1,0 +1,8 @@
+type,marker.size,ysrc,textsrc,marker.sizeref,marker.colorsrc,marker.sizemode,mode,xsrc,name
+scatter,10,maragones:396:83c21a,maragones:396:ce9be7,3.85,maragones:396:e28e5d,diameter,markers,maragones:396:0935ce,Publimetro
+scatter,10,maragones:396:17ee8a,maragones:396:18c21b,3.85,maragones:396:d39e2a,diameter,markers,maragones:396:3b870d,Animal Politico
+scatter,10,maragones:396:53b3d1,maragones:396:05bba9,3.85,maragones:396:bbd114,diameter,markers,maragones:396:0b78ef,El Universal
+scatter,10,maragones:396:fd594b,maragones:396:6fcd6a,3.85,maragones:396:08b10b,diameter,markers,maragones:396:160ebf,SDP
+scatter,10,maragones:396:b52583,maragones:396:230dcf,3.85,maragones:396:9830c3,diameter,markers,maragones:396:8d0841,El Financiero
+scatter,10,maragones:396:630ed8,maragones:396:a26e10,3.85,maragones:396:7ff06c,diameter,markers,maragones:396:e50712,La Jornada
+scatter,10,maragones:396:fb0670,maragones:396:7105ad,3.85,maragones:396:8033b3,diameter,markers,maragones:396:4734b0,Excelsior

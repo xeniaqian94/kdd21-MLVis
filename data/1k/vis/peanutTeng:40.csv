@@ -1,0 +1,4 @@
+type,ysrc,xsrc,name
+scatter,peanutTeng:41:981b74,peanutTeng:41:2dfadd,Interval: 13600s
+scatter,peanutTeng:41:181b64,peanutTeng:41:2dfadd,Interval: 3600s
+scatter,peanutTeng:41:ab7b41,peanutTeng:41:2dfadd,Interval: 7200

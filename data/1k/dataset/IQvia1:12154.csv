@@ -1,0 +1,3 @@
+"Train, x; Test, x; Train (1), x; Test (1), x; Max. Prob., x; Min. Prob., x","Train, y","Train, text","Test, y","Test, text","Train (1), y","Train (1), text","Test (1), y","Test (1), text","Max. Prob., y","Max. Prob., text","Min. Prob., y","Min. Prob., text"
+c2e82b,84a86c,f50c37,10cc98,8463aa,f10b42,81214f,49ea31,bc51e0,728d8a,522b98,f02fc1,9649bf
+ADHD-Real-5-nonCV,0.724,ADHD-Real-5-nonCV - Train Data<br>Area Under Curve : 0.724,0.0,ADHD-Real-5-nonCV - Test Data<br>Area Under Curve : 0.0,1.04,ADHD-Real-5-nonCV - Train Data<br>Ave Error : 1.04%,0.97,ADHD-Real-5-nonCV - Test Data<br>Ave Error : 0.97%,29.61,ADHD-Real-5-nonCV<br>Max Prediction: 29.61%,0.42,ADHD-Real-5-nonCV<br>Min Prediction: 0.42%

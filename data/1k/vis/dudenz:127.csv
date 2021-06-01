@@ -1,0 +1,10 @@
+type,ysrc,jitter,boxpoints,name,boxmean,pointpos
+box,dudenz:128:e110c5,0.3,all,0day<br>OWM<br>Temperature<br>Mean:-0.68<br>STD:2.14,sd,-1.8
+box,dudenz:128:c9e635,0.3,all,0day<br>OWM<br>Rain<br>Mean:0.01<br>STD:0.24,sd,-1.8
+box,dudenz:128:503a97,0.3,all,0day<br>OWM<br>Wind<br>Mean:0.07<br>STD:1.68,sd,-1.8
+box,dudenz:128:4733ba,0.3,all,1day<br>OWM<br>Temperature<br>Mean:-0.70<br>STD:2.34,sd,-1.8
+box,dudenz:128:c81768,0.3,all,1day<br>OWM<br>Rain<br>Mean:0.01<br>STD:0.20,sd,-1.8
+box,dudenz:128:895661,0.3,all,1day<br>OWM<br>Wind<br>Mean:0.10<br>STD:1.89,sd,-1.8
+box,dudenz:128:82a81e,0.3,all,2day<br>OWM<br>Temperature<br>Mean:-0.59<br>STD:2.54,sd,-1.8
+box,dudenz:128:7095cf,0.3,all,2day<br>OWM<br>Rain<br>Mean:0.01<br>STD:0.24,sd,-1.8
+box,dudenz:128:d90107,0.3,all,2day<br>OWM<br>Wind<br>Mean:0.12<br>STD:2.04,sd,-1.8

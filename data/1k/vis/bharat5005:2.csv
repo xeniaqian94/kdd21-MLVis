@@ -1,0 +1,4 @@
+type,ysrc,mode,xsrc,name
+scatter,bharat5005:281:eca0c5,lines,bharat5005:281:563563,Frequency
+scatter,bharat5005:281:baf914,lines,bharat5005:281:563563,Prices
+scatter,bharat5005:281:bc109d,lines,bharat5005:281:563563,Revision

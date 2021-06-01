@@ -1,0 +1,4 @@
+type,ysrc,xsrc,name
+scatter,spartan_hpc:61:948147,spartan_hpc:61:848877,Cloud
+scatter,spartan_hpc:61:64db20,spartan_hpc:61:848877,Physical
+scatter,spartan_hpc:61:a27aa5,spartan_hpc:61:848877,GPU

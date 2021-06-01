@@ -1,0 +1,3 @@
+type,hoverinfo,valuessrc,hole,labelssrc,name
+pie,label+percent,dspens:3:e0ae95,0.4,dspens:3:e19107,USD
+pie,label+percent+value,dspens:3:8b4dc7,0.4,dspens:3:4babae,Number

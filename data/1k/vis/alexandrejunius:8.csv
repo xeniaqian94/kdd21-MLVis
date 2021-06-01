@@ -1,0 +1,3 @@
+type,yaxis,ysrc,xsrc,name
+scatter,,alexandrejunius:9:1cedf0,alexandrejunius:9:eaee9c,yaxis data
+scatter,y2,alexandrejunius:9:0c97e9,alexandrejunius:9:eaee9c,

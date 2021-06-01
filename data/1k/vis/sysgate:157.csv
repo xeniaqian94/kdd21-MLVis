@@ -1,0 +1,5 @@
+uid,ysrc,xsrc,name
+c314b1,sysgate:206:631d62,sysgate:206:8b0a15,Temperature
+01c377,sysgate:206:12afd0,sysgate:206:8b0a15,Pressure
+1c525b,sysgate:206:6a7520,sysgate:206:8b0a15,Humidity
+2adec9,sysgate:206:479d1e,sysgate:206:8b0a15,Lux

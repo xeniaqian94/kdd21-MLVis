@@ -1,0 +1,2 @@
+type,uid,marker.sizesrc,ysrc,marker.sizemin,marker.reversescale,marker.line.color,marker.sizemode,marker.autocolorscale,mode,xsrc,marker.cmin,marker.cmax,name,hoverinfo,autobinx,autobiny,marker.showscale,marker.cauto,marker.sizeref,marker.colorsrc,marker.opacity
+scatter,2ce6f8,Mr.Tax:2:12c1a4,Mr.Tax:2:aa3f88,-0.5,True,"rgb(13, 13, 13)",area,False,markers,Mr.Tax:2:87034a,20,494,B,x+y+text,True,True,True,True,0.12125,Mr.Tax:2:12c1a4,1

@@ -1,0 +1,4 @@
+type,xbins.start,xbins.size,ysrc,text,mode,xsrc,name,xbins.end,opacity,legendgroup,yaxis,histnorm,marker.color,autobinx,marker.symbol,xaxis,showlegend
+histogram,-3.4638790909,1.0,,,,paresh.nayyar:15:85de53,distplot,2.841263901,0.7,distplot,y1,probability density,"rgb(31, 119, 180)",False,,x1,
+scatter,,,paresh.nayyar:15:e12f9e,,lines,paresh.nayyar:15:9b80cb,distplot,,,distplot,y1,,"rgb(31, 119, 180)",,,x1,False
+scatter,,,paresh.nayyar:15:25fb0c,,markers,paresh.nayyar:15:85de53,distplot,,,distplot,y2,,"rgb(31, 119, 180)",,line-ns-open,x1,False

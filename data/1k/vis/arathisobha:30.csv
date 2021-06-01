@@ -1,0 +1,15 @@
+type,uid,ysrc,line.width,visible,mode,xsrc,name,autobinx,autobiny,line.color
+bar,b3b609,arathisobha:29:0f0960,3,True,,arathisobha:29:32de9f,DVR NOT IN  LAN,True,True,#FFD700
+bar,0d5f21,arathisobha:29:fbd5bc,3,True,lines,arathisobha:29:32de9f,HARD DISK ISSUES,True,True,#C0C0C0
+bar,e84bdf,arathisobha:29:b3c203,3,True,lines,arathisobha:29:32de9f,NETWORK ISSUES,True,True,#BA8651
+bar,e4c4f3,arathisobha:29:b5b62b,,True,lines,arathisobha:29:32de9f,CAMERA,True,True,
+bar,047465,arathisobha:29:94e5e1,,True,,arathisobha:29:32de9f,DVR FAULT,True,True,
+bar,825daf,arathisobha:29:8c77a5,,True,,arathisobha:29:32de9f,SENSOR FAULT,True,True,
+bar,867996,arathisobha:29:a749a5,,True,,arathisobha:29:32de9f,ALARM PANNEL FAULT,True,True,
+bar,a12736,arathisobha:29:6c3759,,True,,arathisobha:29:32de9f,BATTERY ISSUE,True,True,
+bar,3a78d8,arathisobha:29:b3c203,,True,,arathisobha:29:32de9f,NETWORK ISSUES,True,True,
+bar,44c74e,arathisobha:29:cfacc6,,True,,arathisobha:29:32de9f,BIOMETRIC,True,True,
+bar,9148c1,arathisobha:29:308312,,True,,arathisobha:29:32de9f,INFLEET CAMERA,True,True,
+bar,16e716,arathisobha:29:e3ce73,,True,,arathisobha:29:32de9f,HOOTER,True,True,
+bar,f16da6,arathisobha:29:97fb7a,,True,,arathisobha:29:32de9f,GPS,True,True,
+bar,914a60,arathisobha:29:5136d7,,True,,arathisobha:29:32de9f,TAB,True,True,

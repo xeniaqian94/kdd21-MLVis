@@ -1,0 +1,5 @@
+type,yaxis,marker.color,ysrc,showlegend,line.width,fill,xsrc,fillcolor,mode,line.color,name
+scatter,,,SigmaEE:191:35c50a,,0.8,tozeroy,SigmaEE:191:4ae0d6,"rgba(245, 218, 129, 0.5)",lines,orange,Solar
+scatter,,,SigmaEE:191:24722a,,0.8,tozeroy,SigmaEE:191:4ae0d6,"rgba(169, 226, 243, 0.5)",lines,#5882FA,Wind
+bar,y2,#FFB73A,SigmaEE:191:5e5b21,False,,,SigmaEE:191:720371,,,,Solar kWh
+bar,y2,#769BF2,SigmaEE:191:3f8949,False,,,SigmaEE:191:720371,,,,Wind kWh

@@ -1,0 +1,5 @@
+"Tamaraw, x; WTF-PAD, x; Unprotected, x","Tamaraw, y","Tamaraw, text","Tamaraw, width; WTF-PAD, width; Unprotected, width","WTF-PAD, y","WTF-PAD, text","Unprotected, y","Unprotected, text"
+83da9f,ba7f8d,4d7d9f,6cea57,f4597d,437870,283fdd,444d29
+k-NN,1.36,1.36%,0.7,6.9,8.26%,32.45,40.71%
+CUMUL,2.85,2.85%,0.7,5.93,8.78%,81.27,90.05%
+CNN,4.01,4.01%,0.7,34.12,38.13%,53.66,91.79%

@@ -1,0 +1,10 @@
+type,xbins.start,xbins.size,ysrc,text,mode,xsrc,name,xbins.end,opacity,legendgroup,yaxis,histnorm,marker.color,autobinx,marker.symbol,xaxis,showlegend
+histogram,5118.0,1.0,,,,paresh.nayyar:9:1f0cb1,Group1,45400.0,0.7,Group1,y1,probability density,"rgb(31, 119, 180)",False,,x1,
+histogram,362.1160187962,1.0,,,,paresh.nayyar:9:40987f,Group2,44502.2951306545,0.7,Group2,y1,probability density,"rgb(255, 127, 14)",False,,x1,
+histogram,5086.5066217782,1.0,,,,paresh.nayyar:9:eb9227,Group3,42177.4162985447,0.7,Group3,y1,probability density,"rgb(44, 160, 44)",False,,x1,
+scatter,,,paresh.nayyar:9:e73b79,,lines,paresh.nayyar:9:bdab8c,Group1,,,Group1,y1,,"rgb(31, 119, 180)",,,x1,False
+scatter,,,paresh.nayyar:9:0214e3,,lines,paresh.nayyar:9:5ad589,Group2,,,Group2,y1,,"rgb(255, 127, 14)",,,x1,False
+scatter,,,paresh.nayyar:9:1d8dd8,,lines,paresh.nayyar:9:f9b657,Group3,,,Group3,y1,,"rgb(44, 160, 44)",,,x1,False
+scatter,,,paresh.nayyar:9:8befb9,,markers,paresh.nayyar:9:1f0cb1,Group1,,,Group1,y2,,"rgb(31, 119, 180)",,line-ns-open,x1,False
+scatter,,,paresh.nayyar:9:cf81ce,,markers,paresh.nayyar:9:40987f,Group2,,,Group2,y2,,"rgb(255, 127, 14)",,line-ns-open,x1,False
+scatter,,,paresh.nayyar:9:31f9d7,,markers,paresh.nayyar:9:eb9227,Group3,,,Group3,y2,,"rgb(44, 160, 44)",,line-ns-open,x1,False

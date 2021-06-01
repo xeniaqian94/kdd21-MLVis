@@ -1,0 +1,13 @@
+type,marker.color,marker.line.width,ysrc,marker.line.color,orientation,xsrc,name
+bar,#42A5B3,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:cc22e3,Jan
+bar,#42A5B3,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:49e75b,Feb
+bar,#7FCC6E,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:5de2bf,Mar
+bar,#7FCC6E,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:9dce35,Apr
+bar,#7FCC6E,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:cec780,May
+bar,#FF8C4F,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:058cd2,Jun
+bar,#FF8C4F,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:4da01c,July
+bar,#FF8C4F,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:9fff1b,Aug
+bar,#D15A86,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:84696c,Sep
+bar,#D15A86,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:fc00c7,Oct
+bar,#D15A86,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:377026,Nov
+bar,#42A5B3,1,SigmaEE:22:e776d4,white,h,SigmaEE:22:398865,Dec

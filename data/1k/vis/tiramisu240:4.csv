@@ -1,0 +1,2 @@
+type,marker.colorscale,marker.size,zsrc,ysrc,marker.opacity,marker.colorsrc,mode,xsrc
+scatter3d,Viridis,12,tiramisu240:5:4afa5e,tiramisu240:5:9837c3,0.5,tiramisu240:5:e85039,markers,tiramisu240:5:02ab03

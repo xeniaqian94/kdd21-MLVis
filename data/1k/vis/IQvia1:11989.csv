@@ -1,0 +1,5 @@
+type,ysrc,line.width,line.dash,xsrc,name,line.color
+scatter,IQvia1:11990:d9285b,3,,IQvia1:11990:8c529d,Model - ATC-DA-10-nonCV - Train,"rgb(22, 96, 167)"
+scatter,IQvia1:11990:2a5533,2,dot,IQvia1:11990:4b6243,Model - ATC-DA-10-nonCV - Test,"rgb(22, 96, 167)"
+scatter,IQvia1:11990:2a5533,2,dot,IQvia1:11990:4b6243,Best Possible,"rgb(22, 167, 22)"
+scatter,IQvia1:11990:10c73c,2,dash,IQvia1:11990:b77c5b,Null Hypothesis,"rgb(167, 22, 22)"

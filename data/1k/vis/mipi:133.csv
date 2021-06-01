@@ -1,0 +1,6 @@
+type,ysrc,marker.line.width,marker.line.color,line.width,mode,xsrc,name,marker.size,yaxis,marker.color,marker.symbol,line.dash,marker.opacity,xaxis,line.color
+scatter,mipi:611:e6f2af,,,1.0,lines,mipi:611:0e78f3,F-bland dygnsmedel fr drift-db,,y1,,,solid,,x1,"rgba (255, 0, 0, 1)"
+scatter,mipi:611:de51d9,0.5,#007F00,1.0,lines+markers,mipi:611:cd3e5b,F-bland dygnsmedel fr månadsrapport,6.0,y1,#007F00,cross,solid,1,x1,"rgba (0, 127, 0, 1)"
+scatter,mipi:611:a457b6,0.5,#000000,,markers,mipi:611:95e613,Br9901 momentant,6.0,y1,#0000FF,dot,,1,x1,
+scatter,mipi:611:d824d2,,,1.0,lines,mipi:611:e1e1c5,17098+17099(Br1701+Br1702),,y1,,,solid,,x1,"rgba (0, 191, 191, 1)"
+scatter,mipi:611:ca3cbd,0.5,#000000,1.0,lines+markers,mipi:611:b27689,17097(Br1703),6.0,y1,#BF00BF,dot,solid,1,x1,"rgba (191, 0, 191, 1)"

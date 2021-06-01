@@ -1,0 +1,8 @@
+type,opacity,yaxis,ysrc,line.width,xsrc,name
+scatter,0.8,,asiviero:49:d428f3,,asiviero:49:f77885,Salotto
+scatter,0.8,,asiviero:49:31a0e5,,asiviero:49:f77885,Bagno giorno
+scatter,0.8,,asiviero:49:7436ed,,asiviero:49:f77885,Cameretta
+scatter,0.8,,asiviero:49:9a388b,,asiviero:49:f77885,Studio
+scatter,0.8,,asiviero:49:ce2183,,asiviero:49:f77885,Camera Matrimoniale
+scatter,0.8,,asiviero:49:2c9e4c,,asiviero:49:f77885,Bagno notte
+scatter,0.8,y2,asiviero:49:51d8a9,5,asiviero:49:f77885,Umidita

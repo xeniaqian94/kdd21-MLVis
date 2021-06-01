@@ -1,0 +1,3 @@
+type,yaxis,marker.color,ysrc,line.width,mode,xsrc,name,line.color
+scatter,,,BrentCN:13:7e307e,2,lines,BrentCN:13:186779,平均气压,"rgb(100,208,250)"
+bar,y2,"rgb(255,115,66)",BrentCN:13:814474,,,BrentCN:13:186779,就诊人数,

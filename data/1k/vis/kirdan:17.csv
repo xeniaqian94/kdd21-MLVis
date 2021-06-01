@@ -1,0 +1,3 @@
+type,marker.color,ysrc,mode,xsrc,name
+scatter,"rgb(255, 0, 0)",kirdan:31:5a78ff,markers,kirdan:31:b6167b,
+scatter,"rgb(0, 255, 0)",kirdan:31:fccf8c,markers,kirdan:31:151a75,

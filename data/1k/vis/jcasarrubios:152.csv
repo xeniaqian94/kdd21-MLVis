@@ -1,0 +1,3 @@
+type,ysrc,line.width,text,xsrc,line.dash,mode,line.color,name
+scatter,jcasarrubios:153:71aa28,1.3,,jcasarrubios:153:1090da,solid,lines,"rgba(255, 153, 51, 1.0)",Ozono ug/m3
+scatter,jcasarrubios:153:4564f8,1.3,,jcasarrubios:153:1090da,solid,lines,"rgba(55, 128, 191, 1.0)",Temperatura Media Cº

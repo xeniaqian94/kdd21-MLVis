@@ -1,0 +1,5 @@
+type,yaxis,ysrc,mode,xsrc,name
+scatter,y2,SpecializedRF:63:753c88,lines,SpecializedRF:63:ff3766,Intl Download
+scatter,y2,SpecializedRF:63:b9aa4a,lines,SpecializedRF:63:ff3766,Intl Upload
+scatter,y2,SpecializedRF:63:d5727c,lines,SpecializedRF:63:9fb08f,local Download
+scatter,y2,SpecializedRF:63:d93331,lines,SpecializedRF:63:9fb08f,local Upload

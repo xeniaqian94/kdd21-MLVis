@@ -1,0 +1,9 @@
+ysrc,mode,xsrc,name
+bpatoutset:253:c1c875,line,bpatoutset:253:107070,SPr_PSPr_diff
+bpatoutset:253:c1c875,line,bpatoutset:253:107070,PCPr_PSPr_diff
+bpatoutset:253:6b3b43,line,bpatoutset:253:107070,ROFPr_DGPr_diff
+bpatoutset:253:cbbda6,line,bpatoutset:253:107070,ROPPr_DGPr_diff
+bpatoutset:253:573e2f,line,bpatoutset:253:107070,UDGPr_TWIPr_diff
+bpatoutset:253:55ca31,line,bpatoutset:253:107070,PUFPr_PODPr_diff
+bpatoutset:253:5b4610,line,bpatoutset:253:107070,WSTPr_DRPr_diff
+bpatoutset:253:354c93,line,bpatoutset:253:107070,ARTPr_VENPr_diff

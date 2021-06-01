@@ -1,0 +1,7 @@
+type,ysrc,marker.line.width,marker.line.color,line.width,mode,xsrc,name,marker.size,yaxis,marker.color,marker.symbol,line.dash,marker.opacity,xaxis,line.color
+scatter,mipi:614:1e21c1,,,1.0,lines,mipi:614:b6fd86,Br9901,,y1,,,solid,,x1,"rgba (255, 0, 0, 1)"
+scatter,mipi:614:8b39f1,,,1.0,lines,mipi:614:0660d2,Br9102,,y1,,,solid,,x1,"rgba (0, 0, 255, 1)"
+scatter,mipi:614:39c774,0.5,#000000,,markers,mipi:614:89ba98,Br9901 manuellt,6.0,y1,#007F00,dot,,1,x1,
+scatter,mipi:614:b9df3c,0.5,#000000,,markers,mipi:614:5ff4de,Br9102 manuellt,6.0,y1,#000000,dot,,1,x1,
+scatter,mipi:614:a34a08,,,1.0,lines,mipi:614:39485e,ök. brunnsfilter Br9901,,y1,,,dash,,x1,"rgba (255, 0, 0, 1)"
+scatter,mipi:614:1cc75a,,,1.0,lines,mipi:614:39485e,ök. brunnsfilter Br9102,,y1,,,dash,,x1,"rgba (0, 0, 255, 1)"

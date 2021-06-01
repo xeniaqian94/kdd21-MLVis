@@ -1,0 +1,4 @@
+type,hoverinfo,textposition,marker.color,ysrc,textsrc,line.width,mode,xsrc,line.color
+scatter,False,,,mori-MMI:1:c0f293,,1,line,mori-MMI:1:642d52,"rgb(50,50,50)"
+scatter,,bottom,"rgb(30, 100, 200)",mori-MMI:1:4d1429,mori-MMI:1:94f7e4,,markers,mori-MMI:1:4c3ca1,
+scatter,,bottom,"rgb(200, 100, 200)",,,,markers+text,,

@@ -1,0 +1,13 @@
+type,ysrc,jitter,boxpoints,name,boxmean,pointpos
+box,dudenz:153:0f93d5,0.3,all,2day<br>6time<br>WetterCom<br>Temperature<br>Mean:2.36<br>STD:2.09,sd,-1.8
+box,dudenz:153:f17d80,0.3,all,2day<br>6time<br>WetterCom<br>Rain<br>Mean:0.13<br>STD:1.71,sd,-1.8
+box,dudenz:153:4e9fe0,0.3,all,2day<br>6time<br>WetterCom<br>Wind<br>Mean:7.32<br>STD:5.06,sd,-1.8
+box,dudenz:153:98b596,0.3,all,2day<br>11time<br>WetterCom<br>Temperature<br>Mean:1.20<br>STD:1.98,sd,-1.8
+box,dudenz:153:195cb9,0.3,all,2day<br>11time<br>WetterCom<br>Rain<br>Mean:0.13<br>STD:1.71,sd,-1.8
+box,dudenz:153:b24ba2,0.3,all,2day<br>11time<br>WetterCom<br>Wind<br>Mean:9.24<br>STD:4.85,sd,-1.8
+box,dudenz:153:42ad63,0.3,all,2day<br>17time<br>WetterCom<br>Temperature<br>Mean:-1.32<br>STD:2.25,sd,-1.8
+box,dudenz:153:8fb797,0.3,all,2day<br>17time<br>WetterCom<br>Rain<br>Mean:0.24<br>STD:3.15,sd,-1.8
+box,dudenz:153:93f16b,0.3,all,2day<br>17time<br>WetterCom<br>Wind<br>Mean:7.18<br>STD:4.52,sd,-1.8
+box,dudenz:153:ca0d11,0.3,all,2day<br>23time<br>WetterCom<br>Temperature<br>Mean:-0.48<br>STD:1.77,sd,-1.8
+box,dudenz:153:88a7c0,0.3,all,2day<br>23time<br>WetterCom<br>Rain<br>Mean:0.19<br>STD:2.80,sd,-1.8
+box,dudenz:153:7c7b40,0.3,all,2day<br>23time<br>WetterCom<br>Wind<br>Mean:5.73<br>STD:4.60,sd,-1.8

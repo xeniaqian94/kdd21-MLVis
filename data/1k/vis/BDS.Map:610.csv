@@ -1,0 +1,8 @@
+type,ysrc,mode,xsrc,name
+scatter,BDS.Map:611:98e29f,lines,BDS.Map:611:c63713,R2P2
+scatter,BDS.Map:611:2f3946,lines,BDS.Map:611:c63713,Fees Due
+scatter,BDS.Map:611:9345ca,lines,BDS.Map:611:c63713,Issued
+scatter,BDS.Map:611:5bdade,lines,BDS.Map:611:8ee572,Approved to Issue
+scatter,BDS.Map:611:7063b3,lines,BDS.Map:611:f6e7db,Admin Hold
+scatter,BDS.Map:611:d1629f,lines,BDS.Map:611:c63713,Expire Pending
+scatter,BDS.Map:611:ec60dc,lines,BDS.Map:611:c63713,Under Inspection

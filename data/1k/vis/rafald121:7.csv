@@ -1,0 +1,10 @@
+type,ysrc,mode,xsrc,marker.size,yaxis,marker.color,marker.showscale,marker.colorsrc,xaxis,showlegend
+histogram,,,rafald121:8:b3d64e,,y1,"rgb(0, 0, 0)",,,x1,False
+scatter,rafald121:8:5e4eef,markers,rafald121:8:6eb7b7,6,y2,,True,rafald121:8:f9deb3,x2,False
+scatter,rafald121:8:5e4eef,markers,rafald121:8:a8e4f6,6,y3,,False,rafald121:8:f9deb3,x3,False
+scatter,rafald121:8:ca40b9,markers,rafald121:8:b3d64e,6,y4,,False,rafald121:8:f9deb3,x4,False
+histogram,,,rafald121:8:6eb7b7,,y5,"rgb(0, 0, 0)",,,x5,False
+scatter,rafald121:8:ca40b9,markers,rafald121:8:a8e4f6,6,y6,,False,rafald121:8:f9deb3,x6,False
+scatter,rafald121:8:500e66,markers,rafald121:8:b3d64e,6,y7,,False,rafald121:8:f9deb3,x7,False
+scatter,rafald121:8:500e66,markers,rafald121:8:6eb7b7,6,y8,,False,rafald121:8:f9deb3,x8,False
+histogram,,,rafald121:8:a8e4f6,,y9,"rgb(0, 0, 0)",,,x9,False

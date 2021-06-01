@@ -1,0 +1,11 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,erasmocf.ufrgs:92:53cf80,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (31, 119, 180, 1)",close
+scatter,y1,x1,erasmocf.ufrgs:92:a91d15,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (255, 127, 14, 1)",MA180
+scatter,y1,x1,erasmocf.ufrgs:92:521c52,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (44, 160, 44, 1)",MA90
+scatter,y1,x1,erasmocf.ufrgs:92:12cf70,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (214, 39, 40, 1)",MA30
+scatter,y1,x1,erasmocf.ufrgs:92:d03616,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (148, 103, 189, 1)",MA15
+scatter,y1,x1,erasmocf.ufrgs:92:845faa,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (140, 86, 75, 1)",MA7
+scatter,y1,x1,erasmocf.ufrgs:92:f52eab,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (227, 119, 194, 1)",MA1
+scatter,y2,x1,erasmocf.ufrgs:92:532d18,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (31, 119, 180, 1)",log_MA1/7
+scatter,y2,x1,erasmocf.ufrgs:92:6ae64a,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (255, 127, 14, 1)",log_MA7/15
+scatter,y2,x1,erasmocf.ufrgs:92:f8946d,1.5,erasmocf.ufrgs:92:5aa59c,solid,lines,"rgba (44, 160, 44, 1)",log_MA15/30

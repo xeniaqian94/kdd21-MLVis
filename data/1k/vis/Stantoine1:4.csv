@@ -1,0 +1,15 @@
+type,mode,latsrc,marker.size,lonsrc,marker.color,marker.opacity,name
+scattermapbox,markers,Stantoine1:12:f32497,7,Stantoine1:12:4e6244,"hsl(0.0,50%,50%)",0.5,75$/sqft
+scattermapbox,markers,Stantoine1:12:83dbcc,7,Stantoine1:12:db7290,"hsl(27.6923076923,50%,50%)",0.5,125$/sqft
+scattermapbox,markers,Stantoine1:12:e1d3f6,7,Stantoine1:12:6792c6,"hsl(55.3846153846,50%,50%)",0.5,175$/sqft
+scattermapbox,markers,Stantoine1:12:dbe524,7,Stantoine1:12:1d88bf,"hsl(83.0769230769,50%,50%)",0.5,225$/sqft
+scattermapbox,markers,Stantoine1:12:0167eb,7,Stantoine1:12:fb8f0e,"hsl(110.769230769,50%,50%)",0.5,275$/sqft
+scattermapbox,markers,Stantoine1:12:2b9a22,7,Stantoine1:12:f616fd,"hsl(138.461538462,50%,50%)",0.5,325$/sqft
+scattermapbox,markers,Stantoine1:12:9b66cf,7,Stantoine1:12:3c7282,"hsl(166.153846154,50%,50%)",0.5,375$/sqft
+scattermapbox,markers,Stantoine1:12:6da1d1,7,Stantoine1:12:8c42a3,"hsl(193.846153846,50%,50%)",0.5,425$/sqft
+scattermapbox,markers,Stantoine1:12:b64b7f,7,Stantoine1:12:124054,"hsl(221.538461538,50%,50%)",0.5,475$/sqft
+scattermapbox,markers,Stantoine1:12:2f0684,7,Stantoine1:12:224afd,"hsl(249.230769231,50%,50%)",0.5,525$/sqft
+scattermapbox,markers,Stantoine1:12:70fceb,7,Stantoine1:12:debd18,"hsl(276.923076923,50%,50%)",0.5,575$/sqft
+scattermapbox,markers,Stantoine1:12:c7d366,7,Stantoine1:12:754d88,"hsl(304.615384615,50%,50%)",0.5,625$/sqft
+scattermapbox,markers,Stantoine1:12:1c8410,7,Stantoine1:12:b5e68a,"hsl(332.307692308,50%,50%)",0.5,675$/sqft
+scattermapbox,markers,Stantoine1:12:7ef01f,10,Stantoine1:12:568b3b,black,1,Votre maison

@@ -1,0 +1,5 @@
+type,yaxis,line.shape,ysrc,connectgaps,xsrc,name
+scatter,y,spline,itsthejb:27:23287e,True,itsthejb:27:178c9f,Baring Global Umbrella Fund - Eastern Europe Fund - Class A EUR Inc
+scatter,y2,spline,itsthejb:27:8d0269,True,itsthejb:27:178c9f,FTIF - Templeton Emerging Markets Fund  - A
+scatter,y3,spline,itsthejb:27:ce3342,True,itsthejb:27:178c9f,FTIF - Templeton Emerging Markets Fund  - A
+scatter,y4,spline,itsthejb:27:fe3748,True,itsthejb:27:178c9f,Man AHL Diversified Futures Ltd - B

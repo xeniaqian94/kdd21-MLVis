@@ -1,0 +1,6 @@
+type,yaxis,xaxis,ysrc,line.width,xsrc,line.dash,mode,line.color,name
+scatter,y1,x1,erasmocf.ufrgs:145:8b45cc,1.5,erasmocf.ufrgs:145:088811,solid,lines,"rgba (31, 119, 180, 1)",close
+scatter,y1,x1,erasmocf.ufrgs:145:c4a156,1.5,erasmocf.ufrgs:145:088811,solid,lines,"rgba (255, 127, 14, 1)",MA7
+scatter,y2,x1,erasmocf.ufrgs:145:a9177b,1.5,erasmocf.ufrgs:145:88e8a1,solid,lines,"rgba (31, 119, 180, 1)",close
+scatter,y2,x1,erasmocf.ufrgs:145:665f3d,1.5,erasmocf.ufrgs:145:88e8a1,solid,lines,"rgba (255, 127, 14, 1)",MA7
+scatter,y3,x1,erasmocf.ufrgs:145:bfd026,1.5,erasmocf.ufrgs:145:88e8a1,solid,lines,"rgba (31, 119, 180, 1)",ratio

@@ -1,0 +1,19 @@
+type,yaxis,xaxis,ysrc,xsrc,name
+bar,y1,x1,IQvia1:11866:a42bf5,IQvia1:11866:9bd33b,Gender
+bar,y3,x3,IQvia1:11866:5fa277,IQvia1:11866:659dcb,AgeAtIndexDate
+bar,y5,x5,IQvia1:11866:a5e015,IQvia1:11866:411d43,YearOfIndexDate
+bar,y7,x7,IQvia1:11866:e4c9fc,IQvia1:11866:2779dd,Duration of Therapy
+bar,y9,x9,IQvia1:11866:7d5180,IQvia1:11866:6b473e,asthma_ndc
+bar,y11,x11,IQvia1:11866:a735a7,IQvia1:11866:6b473e,ALL PSYCHIATRIC EVENTS
+bar,y13,x13,IQvia1:11866:540328,IQvia1:11866:6b473e,SEXUAL MATURITY DISORDERS
+bar,y15,x15,IQvia1:11866:4bf832,IQvia1:11866:6b473e,Dexamphetamine
+bar,y17,x17,IQvia1:11866:5cc271,IQvia1:11866:6b473e,Myocardial Infarction
+bar,y2,x2,IQvia1:11866:a42bf5,IQvia1:11866:858d6d,Gender
+bar,y4,x4,IQvia1:11866:5fa277,IQvia1:11866:659dcb,AgeAtIndexDate
+bar,y6,x6,IQvia1:11866:a5e015,IQvia1:11866:411d43,YearOfIndexDate
+bar,y8,x8,IQvia1:11866:e4c9fc,IQvia1:11866:2779dd,Duration of Therapy
+bar,y10,x10,IQvia1:11866:7d5180,IQvia1:11866:6b473e,asthma_ndc
+bar,y12,x12,IQvia1:11866:a735a7,IQvia1:11866:6b473e,ALL PSYCHIATRIC EVENTS
+bar,y14,x14,IQvia1:11866:540328,IQvia1:11866:6b473e,SEXUAL MATURITY DISORDERS
+bar,y16,x16,IQvia1:11866:4bf832,IQvia1:11866:6b473e,Dexamphetamine
+bar,y18,x18,IQvia1:11866:5cc271,IQvia1:11866:6b473e,Myocardial Infarction

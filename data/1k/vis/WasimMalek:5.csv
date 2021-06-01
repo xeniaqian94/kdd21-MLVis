@@ -1,0 +1,21 @@
+type,hoverinfo,ysrc,line.width,xsrc,mode,line.color,name
+scatter,none,WasimMalek:6:e13da2,12,WasimMalek:6:4b3bad,lines,"rgb(51, 102, 204)",1: Barclaycard
+scatter,none,WasimMalek:6:0c6439,12,WasimMalek:6:4b3bad,lines,"rgb(220, 57, 18)",2: MBNA
+scatter,none,WasimMalek:6:cb656c,12,WasimMalek:6:4b3bad,lines,"rgb(255, 153, 0)",3: nuba
+scatter,none,WasimMalek:6:19f07d,12,WasimMalek:6:4b3bad,lines,"rgb(16, 150, 24)",4: Post Office Money
+scatter,none,WasimMalek:6:96fadc,12,WasimMalek:6:4b3bad,lines,"rgb(153, 0, 153)",5: Halifax
+scatter,none,WasimMalek:6:ee66e3,12,WasimMalek:6:4b3bad,lines,"rgb(59, 62, 172)",6: Sainsbury's Bank
+scatter,none,WasimMalek:6:0b0f3c,12,WasimMalek:6:4b3bad,lines,"rgb(0, 153, 198)",7: Virgin Money
+scatter,none,WasimMalek:6:2f6af2,12,WasimMalek:6:501411,lines,"rgb(221, 68, 119)",8: AA
+scatter,none,WasimMalek:6:219f6c,12,WasimMalek:6:4b3bad,lines,"rgb(102, 170, 0)",9: Lloyds Bank
+scatter,none,WasimMalek:6:77ac60,12,WasimMalek:6:4b3bad,lines,"rgb(184, 46, 46)",10: Sainsbury's Bank
+scatter,none,WasimMalek:6:c83b78,12,WasimMalek:6:4b3bad,lines,"rgb(49, 99, 149)",11: MBNA
+scatter,none,WasimMalek:6:3a6c89,12,WasimMalek:6:4b3bad,lines,"rgb(153, 68, 153)",12: M&S
+scatter,none,WasimMalek:6:0aaaed,12,WasimMalek:6:4b3bad,lines,"rgb(34, 170, 153)",13: Virgin Money
+scatter,none,WasimMalek:6:9a1487,12,WasimMalek:6:4b3bad,lines,"rgb(170, 170, 17)",14: HSBC
+scatter,none,WasimMalek:6:670d11,12,WasimMalek:6:4b3bad,lines,"rgb(102, 51, 204)",15: Halifax
+scatter,none,WasimMalek:6:509ef1,12,WasimMalek:6:4b3bad,lines,"rgb(230, 115, 0)",16: Virgin Money
+scatter,none,WasimMalek:6:74ad10,12,WasimMalek:6:4b3bad,lines,"rgb(139, 7, 7)",17: Sainsbury's Bank
+scatter,none,WasimMalek:6:ae634a,12,WasimMalek:6:4b3bad,lines,"rgb(50, 146, 98)",18: Post Office Money
+scatter,none,WasimMalek:6:98deab,12,WasimMalek:6:74ef7c,lines,"rgb(85, 116, 166)",19: MBNA
+scatter,none,WasimMalek:6:854c89,12,WasimMalek:6:60013c,lines,"rgb(59, 62, 172)",20: nuba

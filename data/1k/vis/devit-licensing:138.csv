@@ -1,0 +1,3 @@
+type,ysrc,line.width,xsrc,name
+scatter,devit-licensing:238:bb6d18,2,devit-licensing:238:4623e7,Write Latency
+scatter,devit-licensing:238:321306,2,devit-licensing:238:4623e7,Read Latency

@@ -1,0 +1,6 @@
+type,ysrc,visible,xsrc,name
+scatter,infintel00p:3:e82032,visible,infintel00p:3:5dabb4,BITSTAMP
+scatter,infintel00p:3:089b84,visible,infintel00p:3:5dabb4,COINBASE
+scatter,infintel00p:3:0a1b8f,visible,infintel00p:3:5dabb4,ITBIT
+scatter,infintel00p:3:1585d0,visible,infintel00p:3:5dabb4,KRAKEN
+scatter,infintel00p:3:958fc4,visible,infintel00p:3:5dabb4,avg_btc_price_usd

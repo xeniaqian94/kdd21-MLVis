@@ -1,0 +1,7 @@
+type,ysrc,marker.line.width,marker.line.color,line.width,mode,xsrc,name,marker.size,yaxis,marker.color,marker.symbol,line.dash,marker.opacity,xaxis,line.color
+scatter,mipi:591:6552a4,,,1.0,lines,mipi:591:a89d4e,Br0801 export fr övervaknsystem,,y1,,,solid,,x1,"rgba (255, 0, 0, 1)"
+scatter,mipi:591:051651,0.5,#000000,1.0,lines+markers,mipi:591:86ecf1,Br0801  avläst fr display,6.0,y1,#007F00,dot,solid,1,x1,"rgba (0, 127, 0, 1)"
+scatter,mipi:591:045cbd,,,1.0,lines,mipi:591:ace731,motsv. pumpintag,,y1,,,dash,,x1,"rgba (0, 0, 0, 1)"
+scatter,mipi:591:2d6708,,,1.0,lines,mipi:591:3f4358,Rb0801,,y2,,,solid,,x2,"rgba (255, 0, 0, 1)"
+scatter,mipi:591:152f6b,,,1.0,lines,mipi:591:7e2448,Rb0801 6h medel,,y2,,,solid,,x2,"rgba (0, 0, 255, 1)"
+scatter,mipi:591:11df13,,,1.0,lines,mipi:591:ace731,motsv. pumpintag Br0801,,y2,,,dash,,x2,"rgba (0, 0, 0, 1)"

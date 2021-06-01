@@ -1,0 +1,7 @@
+type,marker.color,marker.line.width,ysrc,marker.line.color,text,orientation,xsrc,name
+bar,"rgba(255, 153, 51, 0.6)",1,aliirz:185:eb2736,"rgba(255, 153, 51, 1.0)",,v,aliirz:185:cf3601,BLR
+bar,"rgba(55, 128, 191, 0.6)",1,aliirz:185:71a612,"rgba(55, 128, 191, 1.0)",,v,aliirz:185:cf3601,NSL
+bar,"rgba(50, 171, 96, 0.6)",1,aliirz:185:568112,"rgba(50, 171, 96, 1.0)",,v,aliirz:185:cf3601,RFR
+bar,"rgba(128, 0, 128, 0.6)",1,aliirz:185:71a612,"rgba(128, 0, 128, 1.0)",,v,aliirz:185:cf3601,TNC
+bar,"rgba(219, 64, 82, 0.6)",1,aliirz:185:fbcee8,"rgba(219, 64, 82, 1.0)",,v,aliirz:185:cf3601,TRG
+bar,"rgba(0, 128, 128, 0.6)",1,aliirz:185:736477,"rgba(0, 128, 128, 1.0)",,v,aliirz:185:cf3601,TRO

@@ -1,0 +1,2 @@
+type,colorbar.title,zmax,zsrc,zmin,ysrc,xsrc
+heatmap,Pearson Coefficient,1.0,"infintel00p:9:-a1eb69,677d98",-1.0,infintel00p:9:a1eb69,infintel00p:9:677d98

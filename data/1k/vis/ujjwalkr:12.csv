@@ -1,0 +1,7 @@
+type,ysrc,closesrc,line.width,increasing.line.color,mode,xsrc,name,lowsrc,highsrc,yaxis,legendgroup,hoverinfo,marker.color,opensrc,decreasing.line.color,marker.colorsrc,showlegend
+candlestick,,ujjwalkr:13:9fb4cd,,#17BECF,,ujjwalkr:13:00517a,bitcoin,ujjwalkr:13:575fed,ujjwalkr:13:5f5e90,y2,,,,ujjwalkr:13:1a9260,#7F7F7F,,
+scatter,ujjwalkr:13:7b9805,,1,,lines,ujjwalkr:13:00517a,Moving Average 8,,,y2,,,#1111EE,,,,
+scatter,ujjwalkr:13:769f8b,,1,,lines,ujjwalkr:13:00517a,Moving Average 40,,,y2,,,#EE1111,,,,
+bar,ujjwalkr:13:c253bb,,,,,ujjwalkr:13:00517a,Volume,,,y,,,,,,ujjwalkr:13:616406,
+scatter,ujjwalkr:13:dc90a6,,1,,,ujjwalkr:13:00517a,Bollinger Bands,,,y2,Bollinger Bands,none,#ccc,,,,
+scatter,ujjwalkr:13:01e6e3,,1,,,ujjwalkr:13:00517a,,,,y2,Bollinger Bands,none,#ccc,,,,False

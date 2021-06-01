@@ -1,0 +1,6 @@
+type,yaxis,ysrc,line.width,fill,xsrc,mode,line.color,name
+scatter,,SigmaEE:141:0c475e,1,tozeroy,SigmaEE:141:54854d,lines,orange,Solar
+scatter,,SigmaEE:141:21a266,1,tozeroy,SigmaEE:141:54854d,lines,#5882FA,Wind
+scatter,,SigmaEE:141:f5e41b,0.8,tozeroy,SigmaEE:141:54854d,lines,#39BF00,Battery
+scatter,,SigmaEE:141:e54c6e,1,tozeroy,SigmaEE:141:54854d,lines,#969696,Load
+scatter,y2,SigmaEE:141:28c798,1,,SigmaEE:141:54854d,lines,#434343,Voltage

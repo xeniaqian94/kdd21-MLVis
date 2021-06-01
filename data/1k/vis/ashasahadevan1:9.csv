@@ -1,0 +1,5 @@
+type,line.shape,uid,ysrc,line.width,visible,mode,xsrc,name,marker.size,autobinx,autobiny,marker.symbol,connectgaps,showlegend,line.color
+scatter,linear,b3b609,ashasahadevan1:8:c2f8d9,3,True,,ashasahadevan1:8:004abc,SLA,3,True,True,circle,False,True,"rgb(0, 0, 155)"
+scatter,linear,0d5f21,ashasahadevan1:8:9cb322,3,True,lines,ashasahadevan1:8:004abc,RESPONSE TIME,3,True,True,circle,False,True,"rgb(0, 108, 255)"
+scatter,linear,e84bdf,ashasahadevan1:8:f6553e,3,True,lines,ashasahadevan1:8:004abc,REACTION TIME,3,True,True,circle,False,True,"rgb(98, 255, 146)"
+scatter,linear,e4c4f3,ashasahadevan1:8:6d629f,3,,lines,ashasahadevan1:8:004abc,RESOLUTION TIME,3,True,True,circle,False,True,"rgb(255, 147, 0)"

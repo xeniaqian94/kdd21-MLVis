@@ -1,0 +1,2 @@
+type,marker.size,yaxis,marker.color,xaxis,marker.line.width,ysrc,showlegend,line.width,visible,xsrc,line.dash,mode,line.color,name
+scatter,6,y1,"rgb(255,25.5,25.5)",x1,0.5,EngAnalysis:37:18aab2,True,0.5,True,EngAnalysis:37:dd168b,solid,lines,"rgb(255,25.5,25.5)",

@@ -1,0 +1,12 @@
+type,ysrc,stream.head,stream.fid,text,stream.maxpoints,mode,xsrc,name,yaxis,textposition,stream.token,xaxis
+scatter,geraldlow7:14:4fda6c,0,11,,200,,geraldlow7:14:625e8c,price,y1,,uxuhh7cuxf,x1
+scatter,geraldlow7:14:9e958f,0,11,LONG,200,markers+text,geraldlow7:14:625e8c,LONG positions,y1,bottom,lafx97wb97,x1
+scatter,geraldlow7:14:1d3047,0,11,CLOSE LONG,200,markers+text,geraldlow7:14:625e8c,CLOSED LONG positions,y1,bottom,sathxv0gi8,x1
+scatter,geraldlow7:14:562059,0,11,SHORT,200,markers+text,geraldlow7:14:625e8c,SHORT positions,y1,bottom,k5xydfxair,x1
+scatter,geraldlow7:14:9752cb,0,11,CLOSE SHORT,200,markers+text,geraldlow7:14:625e8c,CLOSED SHORT positions,y1,bottom,qmlh3dpj39,x1
+scatter,geraldlow7:14:8fa0a3,0,11,,200,,geraldlow7:14:625e8c,200 SMA,y1,,4r8nh5203d,x1
+scatter,geraldlow7:14:afced7,0,11,,200,,geraldlow7:14:625e8c,MACD indicator,y2,,6lvg791a6u,x1
+scatter,geraldlow7:14:3382fd,0,11,,200,,geraldlow7:14:625e8c,EMA9 indicator,y2,,48s4a4nvxu,x1
+scatter,geraldlow7:14:32c2d4,0,11,,200,,geraldlow7:14:625e8c,RSI,y3,,hkfoxrwzsz,x1
+scatter,geraldlow7:14:c8cf55,0,11,,200,,geraldlow7:14:625e8c,RSImax,y3,,kn4zw6qccw,x1
+scatter,geraldlow7:14:684ac0,0,11,,200,,geraldlow7:14:625e8c,RSImin,y3,,u89ukk5e8r,x1

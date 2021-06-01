@@ -1,0 +1,6 @@
+type,marker.size,ysrc,textsrc,marker.sizeref,marker.colorsrc,marker.sizemode,mode,xsrc,name
+scatter,10,maragones:362:aff02d,maragones:362:86336f,3.85,maragones:362:1bbaf9,diameter,markers,maragones:362:7bdbe5,SDP
+scatter,10,maragones:362:141a8b,maragones:362:d23be7,3.85,maragones:362:e170a3,diameter,markers,maragones:362:168dc1,La Jornada
+scatter,10,maragones:362:4b56cd,maragones:362:f061de,3.85,maragones:362:168e88,diameter,markers,maragones:362:d023b8,El Universal
+scatter,10,maragones:362:f20523,maragones:362:7870f7,3.85,maragones:362:26a11d,diameter,markers,maragones:362:ef6877,Animal Politico
+scatter,10,maragones:362:32f0b1,maragones:362:6aadcc,3.85,maragones:362:7ff7b6,diameter,markers,maragones:362:9448a3,El Financiero
