@@ -1,4 +1,4 @@
-# kdd21-Learning-to-Recommend-Visualizations
+# kdd21-MLVis
 
 Data and supplementary materials for the KDD'21 paper "Learning to Recommend Visualizations from Data".
 
