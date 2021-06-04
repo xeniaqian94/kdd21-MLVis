@@ -5,8 +5,8 @@ Data and supplementary materials for the KDD'21 paper "Learning to Recommend Vis
 ### Table of Contents
 
 <!--ts-->
-   * [Note](#note)
    * [Data](#Data)
+   * [Note](#intellectual-property-note)
 <!--te-->
 
 ### Data
@@ -39,7 +39,7 @@ Note that Sec. 5.1 reports to have 925 datasets. This amount comes after pre-pro
  
  
 #### Intellectual Property Note
-Thank you, for readers interested about source implementation. We unfortunately cannot share here due to company policy.
+Thank you for readers interested about source implementation. We unfortunately cannot share here due to company policy.
 
 #### Contacts
 Please email questions to Xin Qian (xinq@umd.edu). 
